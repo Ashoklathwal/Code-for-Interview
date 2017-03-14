@@ -17,8 +17,8 @@ class parseStrToInteger
 		for(int i=start; i < str.length(); i++)
 		{
 			number *= 10;
-			number += str.charAt(i) - '0';
-            //number += (int)str.charAt(i);
+			number += str.charAt(i) - '0';// parsing
+            //number += (int)str.charAt(i); // casting
 		}
 		if(neg)
 			number = -number;
