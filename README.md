@@ -6,4 +6,11 @@
 * Implement Quick sort [**Solution**](quickSort.java)
 * Implement merge sort [**Solution**](mergeSort.java)
 * Counting Inversion : Merge sort [**Question**](https://www.hackerrank.com/challenges/ctci-merge-sort) [**Solution**](mergeSortCountInversion.java)
+* Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Origonal Question**](https://www.careercup.com/question?id=7449675)
+* Given a string, print out all its permutations.
+* Given a string, print out all its combinations.
+* Write a function that parses a string into integer. 
+* Given an array of integers, return all possible subsets of length n. 
+* Implement integer division without using / or % in O(logN).
+* Implement square-root method wihtout using the Math library.
 * You have a room-full of balances and weights. Each balance weighs ten pounds and is considered perfectly balanced when the sum of weights on its left and right sides are exactly the same. You have placed some weights on some of the balances, and you have placed some of the balances on other balances. Given a description of how the balances are arranged and how much additional weight is on each balance, determine how to add weight to the balances so that they are all perfectly balanced. ([*Original question*](http://www.careercup.com/question?id=12150672)) 
