@@ -11,7 +11,7 @@
 * Implement a queue using 2 stacks. [**Question**](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) [**Solution**](queUsing2Stack.java)
 * Given a string, print out all its permutations.
 * Given a string, print out all its combinations.
-* Write a function that parses a string into integer. 
+* Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java) 
 * Given an array of integers, return all possible subsets of length n. 
 * Implement integer division without using / or % in O(logN).
 * Implement square-root method wihtout using the Math library.
