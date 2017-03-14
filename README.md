@@ -6,7 +6,7 @@
 * Implement Quick sort [**Solution**](quickSort.java)
 * Implement merge sort [**Solution**](mergeSort.java)
 * Counting Inversion : Merge sort [**Question**](https://www.hackerrank.com/challenges/ctci-merge-sort) [**Solution**](mergeSortCountInversion.java)
-* Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Origonal Question**](https://www.careercup.com/question?id=7449675)
+* Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675)
 * A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](https://www.hackerrank.com/challenges/ctci-ransom-note) [**Solution**](RansomNotes.java)
 * Implement a queue using 2 stacks. [**Question**](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) [**Solution**](queUsing2Stack.java)
 * Given a string, print out all its permutations.
