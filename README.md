@@ -9,7 +9,7 @@
 * Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675) [**Solution**](stringCompression.java)
 * A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](https://www.hackerrank.com/challenges/ctci-ransom-note) [**Solution**](RansomNotes.java)
 * Implement a queue using 2 stacks. [**Question**](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) [**Solution**](queUsing2Stack.java)
-* Given a string, print out all its permutations(with and without duplicates).
+* Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/) [**Solution**](AllPermutationWithOutDuplicateInInput.java) and with duplicates in input).
 * Print all permutations in sorted (lexicographic) order [**Explanation**](http://www.geeksforgeeks.org/lexicographic-permutations-of-string/)
 * Given a number, obtain the next larger permutation and next lower permutation by swapping around the digits in the number.
 * Given a string, print out all its combinations.
