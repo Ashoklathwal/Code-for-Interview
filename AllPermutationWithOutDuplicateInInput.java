@@ -1,5 +1,5 @@
 import java.io.*;
-class AllPermutationWithOutDuplicate
+class AllPermutationWithOutDuplicateInInput
 {
 	static String swap(String str, int a, int b)
 	{
