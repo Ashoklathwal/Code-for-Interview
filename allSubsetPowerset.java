@@ -39,7 +39,7 @@ class allSubsetPowerset
 	}
 	public static void main(String args[])
 	{
-		char[] arr={'a','b','c','d'};
+		char[] arr={'a','b','c','d'}; // int[] arr = {1,2,3,4};
 		allSubsetPowerset asp = new allSubsetPowerset();
 		asp.subset(arr);
 		asp.powerset(arr);
