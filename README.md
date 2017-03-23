@@ -12,10 +12,26 @@
 * Implement a queue using 2 stacks. [**Question**](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) [**Solution**](queUsing2Stack.java)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
 * Given an array of integers, return all possible subsets and powerset of length n. [**Explanation**](http://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/) [**Solution**](allSubsetPowerset.java)
+* Code a function that calculates the square root (2-point precision) of a given number(wihtout using the Math library). Follow up: Avoid redundant calculations by now optimizing your function with a caching mechanism.
+* Write a function that raises one number to another number, i.e. the pow() function.
+* Implement integer division without using / or % in O(logN).
 * Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/) [**Solution**](AllPermutationWithOutDuplicateInInput.java) and with duplicates in input).
 * Print all permutations in sorted (lexicographic) order [**Explanation**](http://www.geeksforgeeks.org/lexicographic-permutations-of-string/)
 * Given a number, obtain the next larger permutation and next lower permutation by swapping around the digits in the number.
 * Given a string, print out all its combinations.
-* Implement integer division without using / or % in O(logN).
-* Implement square-root method wihtout using the Math library.
+* How do you find the median of a very large dataset?
+* Write a function that accepts two already sorted lists and returns their union in a sorted list.
+* Write a function that takes two sorted vectors and returns a single sorted vector.
+* Write some code that will determine if brackets in a string are balanced
+* How do you find the second largest element in a Binary Search Tree?
+* If you have an incoming stream of numbers, how would you find the most frequent numbers on-the-fly?
+* Split a large string into valid words and store them in a dictionary. If the string cannot be split, return false. What’s your solution’s complexity?
+* What’s the computational complexity of finding a document’s most frequently used words?
+* If you’re given 10 TBs of unstructured customer data, how would you go about finding extracting valuable information from it?
+*  How would you ‘disjoin’ two arrays (like JOIN for SQL, but the opposite)?
+* Create a function that does addition where the numbers are represented as two linked lists.
+* Create a function that calculates matrix sums.
+* How would you use Python to read a very large tab-delimited file of numbers to count the frequency of each number?
+* Write a function that takes a sentence and prints out the same sentence with each word backwards in O(n) time.
+* Write a function that takes an array, splits the array into every possible set of two arrays, and prints out the max differences between the two array’s minima in O(n) time.
 * You have a room-full of balances and weights. Each balance weighs ten pounds and is considered perfectly balanced when the sum of weights on its left and right sides are exactly the same. You have placed some weights on some of the balances, and you have placed some of the balances on other balances. Given a description of how the balances are arranged and how much additional weight is on each balance, determine how to add weight to the balances so that they are all perfectly balanced. ([*Original question*](http://www.careercup.com/question?id=12150672)) 
