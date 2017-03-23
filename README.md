@@ -1,6 +1,7 @@
 # Code-for-Interview
 
 ## My Solutions
+[**Important(Take a look)**](http://www.kdnuggets.com/2017/03/top-firms-100-data-science-interview-questions.html) 
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
 * Implement Quick sort [**Solution**](quickSort.java)
