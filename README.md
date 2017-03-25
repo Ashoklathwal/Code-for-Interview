@@ -1,7 +1,7 @@
 # Code-for-Interview
 
 ## My Solutions
-[**Important(Take a look)**](http://www.kdnuggets.com/2017/03/top-firms-100-data-science-interview-questions.html) 
+
 ### Linked list :
 * How will you detect cycle in linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)
 
@@ -18,6 +18,7 @@
 * Implement merge sort [**Solution**](mergeSort.java)
 * Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java)
 * Comparator Sorting [**Question**](comparator-sorting.pdf) [**Solution**](comparatorSorting.java)
+* How will you sort a Stack.
 
 ### Trees
 
