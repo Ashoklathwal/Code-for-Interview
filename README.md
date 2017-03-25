@@ -42,7 +42,7 @@
 * Given the respective heights for each of the  staircases in his house, find and print the number of ways he can climb each staircase. [**Question**](recursive-staircase.pdf) [**Solution**](staircase.java)
 * Lonely Integer OR Find the Number Occurring Odd Number of Times [**Question**]() [**Solution**](lonelyInteger.java) [**Explanation**](http://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
 * Check wheather number is prime or not  [**Solution**](Primality.java)
-* Code a function that calculates the square root (2-point precision) of a given number(wihtout using the Math library). Follow up: Avoid redundant calculations by now optimizing your function with a caching mechanism.
+* Code a function that calculates the square root (2-point precision) of a given number(wihtout using the Math library). Follow up: Avoid redundant calculations by now optimizing your function with a caching mechanism. [**Babylonian method/Newton's method**](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method) [**Solution**](square_root.java) [**Explanation**](http://www.geeksforgeeks.org/square-root-of-a-perfect-square/) 
 * Write a function that raises one number to another number, i.e. the pow() function.
 * Implement integer division without using / or % in O(logN).
 * Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/) [**Solution**](AllPermutationWithOutDuplicateInInput.java) and with duplicates in input).
