@@ -2,17 +2,34 @@
 
 ## My Solutions
 [**Important(Take a look)**](http://www.kdnuggets.com/2017/03/top-firms-100-data-science-interview-questions.html) 
+### Linked list :
+* How will you detect cycle in linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)
+
+### Trie data structure
+* No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
+* Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
+
+### Dynamic Programming
+*  find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
+   [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
+### Other Important Questions :
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
 * Implement Quick sort [**Solution**](quickSort.java)
 * Implement merge sort [**Solution**](mergeSort.java)
-* Counting Inversion : Merge sort [**Question**](https://www.hackerrank.com/challenges/ctci-merge-sort) [**Solution**](mergeSortCountInversion.java)
+* Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java)
 * Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675) [**Solution**](stringCompression.java)
-* A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](https://www.hackerrank.com/challenges/ctci-ransom-note) [**Solution**](RansomNotes.java)
-* Implement a queue using 2 stacks. [**Question**](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks) [**Solution**](queUsing2Stack.java)
+* A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](ctci-ransom-note.pdf) [**Solution**](RansomNotes.java)
+* Implement a queue using 2 stacks. [**Question**](queue-using-two-stacks.pdf) [**Solution**](queUsing2Stack.java)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
 * Given an array of integers, return all possible subsets and powerset of length n. [**Explanation**](http://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/) [**Solution**](allSubsetPowerset.java)
 * Write some code that will determine if brackets in a string are balanced. [**Question**](https://www.hackerrank.com/challenges/ctci-balanced-brackets) [**Solution**](balanceBrackets.java)
+* write a function that perforn left rotation in an array with k shift. [**Question**](array-left-rotation.pdf) [**Solution**](leftRotateaArray.java)
+* Given two strings, and , that may or may not be of the same length, determine the minimum number of character deletions required to     make and anagrams. Any characters can be deleted from either of the strings. [**Question**](making-anagrams.pdf) [**Solution**](makingAnagram.java)
+* Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
+* Given the respective heights for each of the  staircases in his house, find and print the number of ways he can climb each staircase. [**Question**](recursive-staircase.pdf) [**Solution**](staircase.java)
+* Lonely Integer OR Find the Number Occurring Odd Number of Times [**Question**]() [**Solution**](lonelyInteger.java) [**Explanation**](http://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
+* Check wheather number is prime or not  [**Solution**](Primality.java)
 * Code a function that calculates the square root (2-point precision) of a given number(wihtout using the Math library). Follow up: Avoid redundant calculations by now optimizing your function with a caching mechanism.
 * Write a function that raises one number to another number, i.e. the pow() function.
 * Implement integer division without using / or % in O(logN).
