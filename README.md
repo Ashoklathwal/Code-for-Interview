@@ -12,6 +12,17 @@
 ### Dynamic Programming
 *  find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
    [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
+   
+### Sorting
+* Implement Quick sort [**Solution**](quickSort.java)
+* Implement merge sort [**Solution**](mergeSort.java)
+* Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java)
+* Comparator Sorting [**Question**](comparator-sorting.pdf) [**Solution**](comparatorSorting.java)
+
+### Trees
+
+### Graphs
+
 ### Other Important Questions :
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
