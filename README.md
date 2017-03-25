@@ -19,6 +19,8 @@
 * Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java)
 * Comparator Sorting [**Question**](comparator-sorting.pdf) [**Solution**](comparatorSorting.java)
 * How will you sort a Stack.
+* Write a function that accepts two already sorted lists and returns their union in a sorted list.
+* Write a function that takes two sorted vectors and returns a single sorted vector.
 
 ### Trees
 
@@ -27,9 +29,6 @@
 ### Other Important Questions :
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
-* Implement Quick sort [**Solution**](quickSort.java)
-* Implement merge sort [**Solution**](mergeSort.java)
-* Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java)
 * Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675) [**Solution**](stringCompression.java)
 * A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](ctci-ransom-note.pdf) [**Solution**](RansomNotes.java)
 * Implement a queue using 2 stacks. [**Question**](queue-using-two-stacks.pdf) [**Solution**](queUsing2Stack.java)
@@ -50,8 +49,6 @@
 * Given a number, obtain the next larger permutation and next lower permutation by swapping around the digits in the number.
 * Given a string, print out all its combinations.
 * How do you find the median of a very large dataset?
-* Write a function that accepts two already sorted lists and returns their union in a sorted list.
-* Write a function that takes two sorted vectors and returns a single sorted vector.
 * How do you find the second largest element in a Binary Search Tree?
 * If you have an incoming stream of numbers, how would you find the most frequent numbers on-the-fly?
 * Split a large string into valid words and store them in a dictionary. If the string cannot be split, return false. What’s your solution’s complexity?
