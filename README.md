@@ -39,6 +39,15 @@
    
 ### Graphs
 
+* Algorithms on Graphs. Comprises of the following algorithms:
+   * BFS
+   * DFS
+   * Kruskal (MST)
+   * Prim (MST)
+   * Modified Dijkstra (SSSP)
+   * Bellman-Ford (SSSP)
+   * Floyd-Warshall (APSP)
+
 ### Other Important Questions :
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
