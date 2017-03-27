@@ -35,6 +35,8 @@
    * Prints the tree level wise using BFS
    * Prints the average value for each level in tree
    * Determines the in-order successor for a node
+ * How do you find the second largest element in a Binary Search Tree?
+   
 ### Graphs
 
 ### Other Important Questions :
@@ -60,7 +62,7 @@
 * Given a number, obtain the next larger permutation and next lower permutation by swapping around the digits in the number.
 * Given a string, print out all its combinations.
 * How do you find the median of a very large dataset?
-* How do you find the second largest element in a Binary Search Tree?
+* Fill an array based on frequency where elements are in range from 0 to n-1
 * If you have an incoming stream of numbers, how would you find the most frequent numbers on-the-fly?
 * Split a large string into valid words and store them in a dictionary. If the string cannot be split, return false. What’s your solution’s complexity?
 * What’s the computational complexity of finding a document’s most frequently used words?
