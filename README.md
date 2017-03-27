@@ -24,7 +24,7 @@
 * Write a function that takes two sorted vectors and returns a single sorted vector.
 
 ### Trees
-* Algorithms on binary trees. Comprises of the following algorithms:
+* [**Algorithms on binary trees**](binary_tree.java). Comprises of the following algorithms:
    * Given a node value, finds the node in tree using dfs
    * Pre-order traversal
    * In-order traversal
