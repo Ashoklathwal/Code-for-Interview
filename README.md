@@ -23,7 +23,18 @@
 * Write a function that takes two sorted vectors and returns a single sorted vector.
 
 ### Trees
-
+* Algorithms on binary trees. Comprises of the following algorithms:
+  Given a node value, finds the node in tree using dfs
+  Pre-order traversal
+  In-order traversal
+  Post-order traversal
+  Checks if tree is a BST
+  Gets the height of the BST
+  Checks if the tree is height balanced
+  Determines the Lowest Common Ancestor (LCA) of two nodes
+  Prints the tree level wise using BFS
+  Prints the average value for each level in tree
+  Determines the in-order successor for a node
 ### Graphs
 
 ### Other Important Questions :
