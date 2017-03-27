@@ -4,6 +4,7 @@
 
 ### Linked list :
 * How will you detect cycle in linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)
+* Create a function that does addition where the numbers are represented as two linked lists.
 
 ### Trie data structure
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
@@ -77,7 +78,6 @@
 * What’s the computational complexity of finding a document’s most frequently used words?
 * If you’re given 10 TBs of unstructured customer data, how would you go about finding extracting valuable information from it?
 *  How would you ‘disjoin’ two arrays (like JOIN for SQL, but the opposite)?
-* Create a function that does addition where the numbers are represented as two linked lists.
 * How would you use Python to read a very large tab-delimited file of numbers to count the frequency of each number?
 * Write a function that takes a sentence and prints out the same sentence with each word backwards in O(n) time.
 * Write a function that takes an array, splits the array into every possible set of two arrays, and prints out the max differences between the two array’s minima in O(n) time.
