@@ -28,7 +28,7 @@
    * Pre-order traversal
    * In-order traversal
    * Post-order traversal
-   * Checks if tree is a BST
+   * Checks if tree is a BST [**Explanation**](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
    * Gets the height of the BST
    * Checks if the tree is height balanced
    * Determines the Lowest Common Ancestor (LCA) of two nodes
