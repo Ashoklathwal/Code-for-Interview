@@ -14,7 +14,7 @@
 ### Dynamic Programming
 *  find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
    [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
-* Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin change.pdf)   
+* Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
 * Given n stairs, how many number of ways can you climb if u use either 1 or 2 at a time? [**Question**](https://www.careercup.com/question?id=3590768)
 
@@ -90,7 +90,7 @@
 * How would you use Python to read a very large tab-delimited file of numbers to count the frequency of each number?
 * Write a function that takes a sentence and prints out the same sentence with each word backwards in O(n) time.
 * Write a function that takes an array, splits the array into every possible set of two arrays, and prints out the max differences between the two array’s minima in O(n) time.
-* You have a room-full of balances and weights. Each balance weighs ten pounds and is considered perfectly balanced when the sum of       weights on its left and right sides are exactly the same. You have placed some weights on some of the balances, and you have placed     some of the balances on other balances. Given a description of how the balances are arranged and how much additional weight is on each   balance, determine how to add weight to the balances so that they are all perfectly balanced. ([*Original question*] (http://www.careercup.com/question?id=12150672)) 
+* You have a room-full of balances and weights. Each balance weighs ten pounds and is considered perfectly balanced when the sum of       weights on its left and right sides are exactly the same. You have placed some weights on some of the balances, and you have placed     some of the balances on other balances. Given a description of how the balances are arranged and how much additional weight is on each   balance, determine how to add weight to the balances so that they are all perfectly balanced. ([*Original question*] (http://www.careercup.com/question?id=12150672) 
 * Let 1 represent ‘A’, 2 represents ‘B’, etc. Given a digit sequence, count the number of possible decodings of the given digit           sequence.[**Question**](http://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/)
 * Solve the “FizzBuzz” problem (needs no introduction).
 * implement Elevator
