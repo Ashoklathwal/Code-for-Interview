@@ -5,6 +5,7 @@
 ### Linked list :
 * How will you detect cycle in linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)
 * Create a function that does addition where the numbers are represented as two linked lists.
+* Find middle element of linked list 
 
 ### Trie data structure
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
@@ -37,6 +38,7 @@
    * Prints the average value for each level in tree
    * Determines the in-order successor and predeccessor for a node in BST
    * find the k'th largest element in a Binary Search Tree(BST)?[**Explanation**](http://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/)
+* Find Diameter of binary tree      
    
 ### Graphs
 
