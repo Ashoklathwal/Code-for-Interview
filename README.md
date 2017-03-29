@@ -6,6 +6,16 @@
 * How will you detect cycle in linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)
 * Create a function that does addition where the numbers are represented as two linked lists.
 * Find middle element of linked list 
+* Insertion of a node in Linked List (On the basis of some constraints)
+* Delete a given node in Linked List (under given constraints)
+* Compare two strings represented as linked lists
+* Add Two Numbers Represented By Linked Lists
+* Merge A Linked List Into Another Linked List At Alternate Positions
+* Reverse A List In Groups Of Given Size
+* Union And Intersection Of 2 Linked Lists
+* Detect And Remove Loop In A Linked List
+* Merge Sort For Linked Lists
+* Select A Random Node from A Singly Linked List
 
 ### Trie data structure
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
@@ -17,6 +27,16 @@
 * Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
 * Given n stairs, how many number of ways can you climb if u use either 1 or 2 at a time? [**Question**](https://www.careercup.com/question?id=3590768)
+* Longest Common Subsequence
+* Longest Increasing Subsequence
+* Edit Distance
+* Minimum Partition
+* Ways to Cover a Distance
+* Longest Path In Matrix
+* Subset Sum Problem
+* Optimal Strategy for a Game
+* 0-1 Knapsack Problem
+* Boolean Parenthesization Problem
 
 ### Matrix 
  
@@ -30,6 +50,8 @@
 * How will you sort a Stack.
 * Write a function that accepts two already sorted lists and returns their union in a sorted list.
 * Write a function that takes two sorted vectors and returns a single sorted vector.
+* Heap Sort (Binary Heap)
+* Interpolation Search
 
 ### Trees
 * [**Algorithms on binary trees**](binary_tree.java). Comprises of the following algorithms:
@@ -51,6 +73,14 @@
     * Print Bottom view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-bottom-view-of-the-binary-tree/)
    * Create mirror image of BT
 * Check one BT is subset of another BT or not   
+* Find Minimum Depth of a Binary Tree
+* Maximum Path Sum in a Binary Tree
+* Check if a given array can represent Preorder Traversal of Binary Search Tree
+* Check whether a binary tree is a full binary tree or not
+* Remove nodes on root to leaf paths of length < K
+* Reverse alternate levels of a perfect binary tree
+
+
 ### Graphs
 
 * Algorithms on Graphs. Comprises of the following algorithms:
@@ -61,6 +91,10 @@
    * Modified Dijkstra (SSSP)
    * Bellman-Ford (SSSP)
    * Floyd-Warshall (APSP)
+* To detect cycle in a Graph **Union Find**
+* Topological Sort
+* Boggle (Find all possible words in a board of characters)
+* Bridges in a Graph
 
 ### Other Important Questions :
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
@@ -97,6 +131,16 @@
 * You have a room-full of balances and weights. Each balance weighs ten pounds and is considered perfectly balanced when the sum of       weights on its left and right sides are exactly the same. You have placed some weights on some of the balances, and you have placed     some of the balances on other balances. Given a description of how the balances are arranged and how much additional weight is on each   balance, determine how to add weight to the balances so that they are all perfectly balanced. [*Original question*](http://www.careercup.com/question?id=12150672) 
 * Let 1 represent ‘A’, 2 represents ‘B’, etc. Given a digit sequence, count the number of possible decodings of the given digit           sequence.[**Question**](http://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/)
 * Solve the “FizzBuzz” problem (needs no introduction).
+* Reverse an array without affecting special characters
+* All Possible Palindromic Partitions
+* Count triplets with sum smaller than a given value
+* Convert array into Zig-Zag fashion
+* Generate all possible sorted arrays from alternate elements of two given sorted arrays
+* Pythagorean Triplet in an array
+* Length of the largest subarray with contiguous elements
+* Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
+* Smallest subarray with sum greater than a given value
+* Stock Buy Sell to Maximize Profit
 * implement Elevator
 * Find minimum average waiting time
 * Implement LRU Cache
