@@ -47,8 +47,8 @@
    * Determines the in-order successor and predeccessor for a node in BST
    * find the k'th largest element in a Binary Search Tree(BST)?[**Explanation**](http://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/)
    * Find Diameter of binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/diameter-of-a-binary-tree/)    
-   * Print Bottom view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-bottom-view-of-the-binary-tree/)
    * Print top view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-top-view-of-a-binary-tree/)
+    * Print Bottom view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-bottom-view-of-the-binary-tree/)
    * Create mirror image of BT
 * Check one BT is subset of another BT or not   
 ### Graphs
