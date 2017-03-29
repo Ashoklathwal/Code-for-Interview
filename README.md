@@ -31,14 +31,14 @@
    * In-order traversal
    * Post-order traversal
    * Checks if tree is a BST [**Explanation**](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
-   * Gets the height of the BST
+   * Gets the height or depth of the BST
    * Checks if the tree is height balanced
    * Determines the Lowest Common Ancestor (LCA) of two nodes [**BT Explanation**](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/) [**BST Explanation**](http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
    * Prints the tree level wise using BFS(level order traversal)
    * Prints the average value for each level in tree
    * Determines the in-order successor and predeccessor for a node in BST
    * find the k'th largest element in a Binary Search Tree(BST)?[**Explanation**](http://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/)
-* Find Diameter of binary tree      
+   * Find Diameter of binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/diameter-of-a-binary-tree/)      
    
 ### Graphs
 
