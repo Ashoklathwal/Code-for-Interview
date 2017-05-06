@@ -5,7 +5,6 @@
 ### Linked list :
 * How will you detect cycle in linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)
 * Create a function that does addition where the numbers are represented as two linked lists.
-* Find middle element of linked list 
 * Insertion of a node in Linked List (On the basis of some constraints)
 * Delete a given node in Linked List (under given constraints)
 * Compare two strings represented as linked lists
@@ -16,6 +15,17 @@
 * Detect And Remove Loop In A Linked List
 * Merge Sort For Linked Lists
 * Select A Random Node from A Singly Linked List
+* Write a function to get the intersection point of two Linked Lists
+* Find middle element of linked list and delete it
+* Write a function to reverse a linked list
+* Segregate even and odd nodes in a Linked List
+* rotate the linked list counter-clockwise by k nodes
+* Flattening a Linked List
+* Sort a linked list of 0s, 1s and 2s
+* Split a Circular Linked List into two halves
+* Sorted insert for circular linked list
+* Swap Kth node from beginning with Kth node from end in a Linked List
+* Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
 
 ### Trie data structure
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
