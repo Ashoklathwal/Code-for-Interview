@@ -157,7 +157,7 @@
 * Length of the largest subarray with contiguous elements
 * Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
 * Smallest subarray with sum greater than a given value
-* Stock Buy Sell to Maximize Profit
+* Stock Buy Sell to Maximize Profit [**Explanation**](http://www.geeksforgeeks.org/stock-buy-sell/)
 * implement Elevator
 * Find minimum average waiting time
 * Implement LRU Cache
