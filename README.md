@@ -3,7 +3,10 @@
 ## My Solutions
 
 ### Introduction
-
+* Overview of data structure
+  * [Set 1 (Linear Data Structures)](http://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/) 
+  * [**Set 2 (Binary Tree, BST, Heap and Hash)**](http://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/)
+  * [**Set 3 (Graph, Trie, Segment Tree and Suffix Tree)**](http://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/)
 * [**1) Technical Interview Cheat Sheet**](https://github.com/sacert/Technical-Interview-Cheat-Sheet)
 * [**2) Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 ### Linked list :
