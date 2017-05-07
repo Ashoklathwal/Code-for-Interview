@@ -3,8 +3,8 @@
 ## My Solutions
 
 ### Linked list :
-* How will you detect cycle in linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)
-* Create a function that does addition where the numbers are represented as two linked lists.
+* How will you detect cycle and remove it from the linked list [**Question**](linked-list-cycle.pdf) [**Solution**](detectCycleLinkedList.java)[**Explanation**](http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/)
+* Create a function that does addition where the numbers are represented as two linked lists.[**Solution**](AddLinkedList.java)[**Explanation**](http://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)
 * Insertion of a node in Linked List (On the basis of some constraints)
 * Delete a given node in Linked List (under given constraints)
 * Compare two strings represented as linked lists
@@ -12,7 +12,6 @@
 * Merge A Linked List Into Another Linked List At Alternate Positions
 * Reverse A List In Groups Of Given Size
 * Union And Intersection Of 2 Linked Lists
-* Detect And Remove Loop In A Linked List
 * Merge Sort For Linked Lists
 * Select A Random Node from A Singly Linked List
 * Write a function to get the intersection point of two Linked Lists
