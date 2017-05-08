@@ -12,8 +12,8 @@
 ### Linked list :
 * How will you detect cycle and remove it from the linked list  [**Solution**](detectCycleLinkedList.java) [**Explanation**](http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/)
 * Create a function that does addition where the numbers are represented as two linked lists.[**Solution**](AddLinkedList.java)    [**Explanation**](http://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)
-* Insertion of a node in Linked List (On the basis of some constraints)
-* Delete a given node in Linked List (under given constraints)
+* Insertion of a node in Linked List (On the basis of some constraints) [**Solution**](addNode.java)
+* Delete a given node in Linked List (under given constraints) [**Solution**](deleteNode.java)
 * Compare two strings represented as linked lists
 * Add Two Numbers Represented By Linked Lists
 * Merge A Linked List Into Another Linked List At Alternate Positions
