@@ -14,16 +14,14 @@
 * Create a function that does addition where the numbers are represented as two linked lists.[**Solution**](AddLinkedList.java)    [**Explanation**](http://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)
 * Insertion of a node in Linked List (On the basis of some constraints) [**Solution**](addNode.java)
 * Delete a given node in Linked List (under given constraints) [**Solution**](deleteNode.java)
-* Compare two strings represented as linked lists
-* Add Two Numbers Represented By Linked Lists
-* Merge A Linked List Into Another Linked List At Alternate Positions
-* Reverse A List In Groups Of Given Size
+* Merge A Linked List Into Another Linked List At Alternate Positions [**Solution**](mergeAlternatePosition.java) [**Explanation**](http://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/)
+* Write a function to reverse a linked list [**Solution**](reverseList.java)
+* Reverse A List In Groups Of Given Size [**Solution**](reverseListInGroup.java)
 * Union And Intersection Of 2 Linked Lists
 * Merge Sort For Linked Lists
 * Select A Random Node from A Singly Linked List
 * Write a function to get the intersection point of two Linked Lists
 * Find middle element of linked list and delete it
-* Write a function to reverse a linked list
 * Segregate even and odd nodes in a Linked List
 * rotate the linked list counter-clockwise by k nodes
 * Flattening a Linked List
