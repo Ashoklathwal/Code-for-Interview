@@ -17,10 +17,11 @@
 * Merge A Linked List Into Another Linked List At Alternate Positions [**Solution**](mergeAlternatePosition.java) [**Explanation**](http://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/)
 * Write a function to reverse a linked list [**Solution**](reverseList.java)
 * Reverse A List In Groups Of Given Size [**Solution**](reverseListInGroup.java)
-* Union And Intersection Of 2 Linked Lists
-* Merge Sort For Linked Lists
+* Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists [**Explanation**](http://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/)
+* Merge Sort For Linked Lists [**Explanation**](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+* Union And Intersection Of 2 Linked Lists [**Explanation**](http://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
+* Write a function to get the intersection point of two Linked Lists [**Explanation**](http://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
 * Select A Random Node from A Singly Linked List
-* Write a function to get the intersection point of two Linked Lists
 * Find middle element of linked list and delete it
 * Segregate even and odd nodes in a Linked List
 * rotate the linked list counter-clockwise by k nodes
@@ -29,7 +30,7 @@
 * Split a Circular Linked List into two halves
 * Sorted insert for circular linked list
 * Swap Kth node from beginning with Kth node from end in a Linked List
-* Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
+
 
 ### Trie data structure
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
