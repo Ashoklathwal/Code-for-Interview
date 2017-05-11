@@ -21,9 +21,9 @@
 * Merge Sort For Linked Lists [**Explanation**](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
 * Union And Intersection Of 2 Linked Lists [**Explanation**](http://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
 * Write a function to get the intersection point of two Linked Lists [**Explanation**](http://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
-* Select A Random Node from A Singly Linked List
-* Find middle element of linked list and delete it
-* Segregate even and odd nodes in a Linked List
+* Select A Random Node from A Singly Linked List [**Explanation**](http://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/)
+* Find middle element of linked list and delete it [**Solution**](deleteMiddleLinkedList.java)
+* Segregate even and odd nodes in a Linked List [**Solution**](evenOddSegregate.java) [**Explanation**](http://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)
 * rotate the linked list counter-clockwise by k nodes
 * Flattening a Linked List
 * Sort a linked list of 0s, 1s and 2s
