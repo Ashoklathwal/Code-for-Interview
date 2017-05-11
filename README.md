@@ -52,6 +52,7 @@
 * Optimal Strategy for a Game
 * 0-1 Knapsack Problem
 * Boolean Parenthesization Problem
+* find the largest palindrome in the string
 
 ### Matrix 
  
@@ -95,6 +96,7 @@
 * Check whether a binary tree is a full binary tree or not
 * Remove nodes on root to leaf paths of length < K
 * Reverse alternate levels of a perfect binary tree
+* zig-zag traversal of binary tree
 
 
 ### Graphs
@@ -133,6 +135,7 @@
 * Implement integer division without using / or % in O(logN).
 * Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/) [**Solution**](AllPermutationWithOutDuplicateInInput.java) and with duplicates in input).
 * Print all permutations in sorted (lexicographic) order [**Explanation**](http://www.geeksforgeeks.org/lexicographic-permutations-of-string/)
+* given an array A[], and a rule array R[], A[] has some numbers... R[] has numbers from 0 to sizeof(A[])-1 (ie R[] has indices of A[] in shuffled order). So, by just looking at R[] and A[], you need to tell after how many rounds we will get original A[] if we apply R[] to it. ex. A[]={1,2,3} R[]={2,0,1} then answer should be 3
 * Given a number, obtain the next larger permutation and next lower permutation by swapping around the digits in the number.
 * Given a string, print out all its combinations.
 * How do you find the median of a very large dataset?
