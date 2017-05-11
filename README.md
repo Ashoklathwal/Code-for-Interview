@@ -122,6 +122,7 @@
 * Given an array of integers, return all possible subsets and powerset of length n. [**Explanation**](http://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/) [**Solution**](allSubsetPowerset.java)
 * Write some code that will determine if brackets in a string are balanced. [**Question**](https://www.hackerrank.com/challenges/ctci-balanced-brackets) [**Solution**](balanceBrackets.java)
 * write a function that perforn left rotation in an array with k shift. [**Question**](array-left-rotation.pdf) [**Solution**](leftRotateaArray.java)
+* Element of max subarray and primality [**Question**](http://practice.geeksforgeeks.org/problems/sid-and-his-prime-money/0) [**Solution**](sidAndMaxMaoney.java) 
 * Given two strings, and , that may or may not be of the same length, determine the minimum number of character deletions required to     make and anagrams. Any characters can be deleted from either of the strings. [**Question**](making-anagrams.pdf) [**Solution**](makingAnagram.java)
 * Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
 * Given the respective heights for each of the  staircases in his house, find and print the number of ways he can climb each staircase. [**Question**](recursive-staircase.pdf) [**Solution**](staircase.java)
