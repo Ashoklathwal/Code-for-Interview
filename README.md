@@ -24,13 +24,38 @@
 * Select A Random Node from A Singly Linked List [**Explanation**](http://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/)
 * Find middle element of linked list and delete it [**Solution**](deleteMiddleLinkedList.java)
 * Segregate even and odd nodes in a Linked List [**Solution**](evenOddSegregate.java) [**Explanation**](http://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)
-* rotate the linked list counter-clockwise by k nodes
-* Flattening a Linked List
-* Sort a linked list of 0s, 1s and 2s
-* Split a Circular Linked List into two halves
-* Sorted insert for circular linked list
+* Flattening a Linked List [**Solution**](flattenList.java) 
+* Sort a linked list of 0s, 1s and 2s [**Solution**](sort_0_1_2_list.java)
+* Split a Circular Linked List into two halves [**Explanation**](http://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/)
+* Sorted insert for circular linked list [**Explanation**](http://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/)
 * Swap Kth node from beginning with Kth node from end in a Linked List
 
+### Stack
+ 
+* Design and Implement Special Stack Data Structure
+* Design a stack with operations on middle element
+* How to create mergable stack?
+* Convert Infix expression to Postfix expression
+* Evaluation of Postfix Expression
+* Expression Evaluation
+* Implement two stacks in an array
+* How to efficiently implement k stacks in a single array?
+* Check for balanced parentheses in an expression
+* Minimum number of bracket reversals needed to make an expression balanced
+* Next Greater Element
+* Reverse a stack using recursion
+* Sort a stack using recursion
+* The Stock Span Problem
+* Implement Stack using Queues
+* Implement a stack using single queue
+* Iterative Tower of Hanoi
+* Length of the longest valid substring
+* Find maximum of minimum for every window size in a given array
+* Check if a given array can represent Preorder Traversal of Binary Search Tree
+* Largest Rectangular Area in a Histogram
+* The Celebrity Problem
+* Print ancestors of a given binary tree node without recursion
+* Iterative Postorder Traversal using one stack
 
 ### Trie data structure
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
