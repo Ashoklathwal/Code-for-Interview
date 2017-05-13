@@ -15,7 +15,7 @@
 * Insertion of a node in Linked List (On the basis of some constraints) [**Solution**](addNode.java)
 * Delete a given node in Linked List (under given constraints) [**Solution**](deleteNode.java)
 * Merge A Linked List Into Another Linked List At Alternate Positions [**Solution**](mergeAlternatePosition.java) [**Explanation**](http://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/)
-* Write a function to reverse a linked list [**Solution**](reverseList.java)
+* Write a function to reverse a singly linked list and doubly linked list[**Solution**](reverseList.java)
 * Reverse A List In Groups Of Given Size [**Solution**](reverseListInGroup.java)
 * Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists [**Explanation**](http://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/)
 * Merge Sort For Linked Lists [**Explanation**](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
@@ -28,7 +28,7 @@
 * Sort a linked list of 0s, 1s and 2s [**Solution**](sort_0_1_2_list.java)
 * Split a Circular Linked List into two halves [**Explanation**](http://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/)
 * Sorted insert for circular linked list [**Explanation**](http://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/)
-* Swap Kth node from beginning with Kth node from end in a Linked List
+* Swap Kth node from beginning with Kth node from end in a Linked List [**Solution**](swapLinkedList.java)
 
 ### Stack
  
