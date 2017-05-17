@@ -32,17 +32,16 @@
 
 ### Stack
  
-* Design and Implement Special Stack Data Structure
-* Design a stack with operations on middle element
-* How to create mergable stack?
-* Convert Infix expression to Postfix expression
-* Evaluation of Postfix Expression
-* Expression Evaluation
-* Implement two stacks in an array
-* How to efficiently implement k stacks in a single array?
-* Check for balanced parentheses in an expression
-* Minimum number of bracket reversals needed to make an expression balanced
-* Next Greater Element
+* Design a stack that supports getMin() in O(1) time and O(1) extra space
+* Design a stack with operations on middle element [**Solution**](midElementStack.java)
+* How to create mergable stack? [**Explanation**](http://www.geeksforgeeks.org/create-mergable-stack/)
+* Convert Infix expression to Postfix expression [**Solution**](infixToPostfix.java)
+* Evaluation of Postfix Expression [**Solution**](postfixEvaluation.java)
+* Expression Evaluation [**Explanation**](http://www.geeksforgeeks.org/expression-evaluation/)
+* How to efficiently implement k stacks in a single array? [**Explanation**](http://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)
+* Write some code that will determine if brackets in a string are balanced. [**Question**](https://www.hackerrank.com/challenges/ctci-balanced-brackets) [**Solution**](balanceBrackets.java)
+* Minimum number of bracket reversals needed to make an expression balanced [**Solution**](countMinReversals.java) [**Explanation**](http://www.geeksforgeeks.org/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced/)
+* Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
 * Reverse a stack using recursion
 * Sort a stack using recursion
 * The Stock Span Problem
@@ -141,13 +140,11 @@
 
 ### Other Important Questions :
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
-* Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
 * Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675) [**Solution**](stringCompression.java)
 * A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](ctci-ransom-note.pdf) [**Solution**](RansomNotes.java)
 * Implement a queue using 2 stacks. [**Question**](queue-using-two-stacks.pdf) [**Solution**](queUsing2Stack.java)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
 * Given an array of integers, return all possible subsets and powerset of length n. [**Explanation**](http://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/) [**Solution**](allSubsetPowerset.java)
-* Write some code that will determine if brackets in a string are balanced. [**Question**](https://www.hackerrank.com/challenges/ctci-balanced-brackets) [**Solution**](balanceBrackets.java)
 * write a function that perforn left rotation in an array with k shift. [**Question**](array-left-rotation.pdf) [**Solution**](leftRotateaArray.java)
 * Element of max subarray and primality [**Question**](http://practice.geeksforgeeks.org/problems/sid-and-his-prime-money/0) [**Solution**](sidAndMaxMaoney.java) 
 * Given two strings, and , that may or may not be of the same length, determine the minimum number of character deletions required to     make and anagrams. Any characters can be deleted from either of the strings. [**Question**](making-anagrams.pdf) [**Solution**](makingAnagram.java)
