@@ -9,7 +9,7 @@ class nextGreaterElement
 		for(int i=1;i<n;i++)
 		{
 			int x = 0;
-			while(!stk.isEmpty())
+			if(!stk.isEmpty())
 			{
 				x = stk.pop();
 				if(x < arr[i])
