@@ -6,22 +6,28 @@ class nextGreaterElement
 		int n = arr.length;
 		Stack<Integer> stk = new Stack<>();
 		stk.push(arr[0]);
+		int element ;
+		int next;
 		for(int i=1;i<n;i++)
 		{
-			int x = 0;
+			next = arr[i];
 			if(!stk.isEmpty())
 			{
-				x = stk.pop();
-				if(x < arr[i])
+				element = stk.pop();
+				while(element < next)
 				{
-					System.out.println(x+"     "+arr[i]);
+					System.out.println(element+"     "+next);
+					if(stk.isEmpty())
+						break;
+					element = stk.pop();
 				}
-			}
-			if(x >= arr[i])
-			{
-				stk.push(x);
-			}
-			stk.push(arr[i]);
+			
+			        if(elemnt >= next)
+			        {
+				       stk.push(element);
+		       	        }
+			}	
+			stk.push(next);
 		}
 		while(!stk.isEmpty())
 		{
