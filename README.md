@@ -32,7 +32,7 @@
 
 ### Stack
  
-* Design a stack that supports getMin() in O(1) time and O(1) extra space
+* Design a stack that supports getMin() in O(1) time and O(1) extra space [**Solution**](minElementStack.java) [**Explanation**](http://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
 * Design a stack with operations on middle element [**Solution**](midElementStack.java)
 * How to create mergable stack? [**Explanation**](http://www.geeksforgeeks.org/create-mergable-stack/)
 * Convert Infix expression to Postfix expression [**Solution**](infixToPostfix.java)
@@ -42,11 +42,11 @@
 * Write some code that will determine if brackets in a string are balanced. [**Question**](https://www.hackerrank.com/challenges/ctci-balanced-brackets) [**Solution**](balanceBrackets.java)
 * Minimum number of bracket reversals needed to make an expression balanced [**Solution**](countMinReversals.java) [**Explanation**](http://www.geeksforgeeks.org/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced/)
 * Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
-* Reverse a stack using recursion
-* Sort a stack using recursion
-* The Stock Span Problem
-* Implement Stack using Queues
-* Implement a stack using single queue
+* Reverse a stack using recursion [**Solution**](reverseStack.java) [**Explanation**](http://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
+* Sort a stack using recursion [**Solution**](sortStack.java) [**Explanation**](http://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
+* The Stock Span Problem [**Explanation**](http://www.geeksforgeeks.org/the-stock-span-problem/)
+* Implement Stack using 2 Queue [**Explanation**](stack2que.pdf)
+* Implement a stack using single queue [**Explanation**](stack1que.pdf)
 * Iterative Tower of Hanoi
 * Length of the longest valid substring
 * Find maximum of minimum for every window size in a given array
@@ -56,7 +56,7 @@
 * Print ancestors of a given binary tree node without recursion
 * Iterative Postorder Traversal using one stack
 
-### Trie data structure
+### [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
 * Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
 
@@ -142,7 +142,6 @@
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675) [**Solution**](stringCompression.java)
 * A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](ctci-ransom-note.pdf) [**Solution**](RansomNotes.java)
-* Implement a queue using 2 stacks. [**Question**](queue-using-two-stacks.pdf) [**Solution**](queUsing2Stack.java)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
 * Given an array of integers, return all possible subsets and powerset of length n. [**Explanation**](http://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/) [**Solution**](allSubsetPowerset.java)
 * write a function that perforn left rotation in an array with k shift. [**Question**](array-left-rotation.pdf) [**Solution**](leftRotateaArray.java)
