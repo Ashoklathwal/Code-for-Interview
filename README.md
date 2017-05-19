@@ -47,8 +47,8 @@
 * The Stock Span Problem [**Explanation**](http://www.geeksforgeeks.org/the-stock-span-problem/)
 * Implement Stack using 2 Queue [**Explanation**](stack2que.pdf)
 * Implement a stack using single queue [**Explanation**](stack1que.pdf)
-* Iterative Tower of Hanoi
-* Length of the longest valid substring
+* Iterative Tower of Hanoi [**Solution**](iterativeTOH.java) [**Explanation**](Tower of hanoi.pdf)
+* Length of the longest valid substring [**Solution**](valid_substring.java) [**Explanation**](http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/)
 * Find maximum of minimum for every window size in a given array
 * Check if a given array can represent Preorder Traversal of Binary Search Tree
 * Largest Rectangular Area in a Histogram
