@@ -42,19 +42,19 @@
 * Write some code that will determine if brackets in a string are balanced. [**Question**](https://www.hackerrank.com/challenges/ctci-balanced-brackets) [**Solution**](balanceBrackets.java)
 * Minimum number of bracket reversals needed to make an expression balanced [**Solution**](countMinReversals.java) [**Explanation**](http://www.geeksforgeeks.org/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced/)
 * Given an array, print the Next Greater Element (NGE) for every element [**Solution**](nextGreaterElement.java) [**Explanation**](http://www.geeksforgeeks.org/next-greater-element/)
+* Check if a given array can represent Preorder Traversal of Binary Search Tree [**Explanation**](http://www.geeksforgeeks.org/check-if-a-given-array-can-represent-preorder-traversal-of-binary-search-tree/)
 * Reverse a stack using recursion [**Solution**](reverseStack.java) [**Explanation**](http://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
 * Sort a stack using recursion [**Solution**](sortStack.java) [**Explanation**](http://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
 * The Stock Span Problem [**Explanation**](http://www.geeksforgeeks.org/the-stock-span-problem/)
 * Implement Stack using 2 Queue [**Explanation**](stack2que.pdf)
 * Implement a stack using single queue [**Explanation**](stack1que.pdf)
-* Iterative Tower of Hanoi [**Solution**](iterativeTOH.java) [**Explanation**](Tower of hanoi.pdf)
+* Iterative Tower of Hanoi [**Solution**](iterativeTOH.java) [**Explanation**](Tower_of_hanoi.pdf)
 * Length of the longest valid substring [**Solution**](valid_substring.java) [**Explanation**](http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/)
-* Find maximum of minimum for every window size in a given array
-* Check if a given array can represent Preorder Traversal of Binary Search Tree
-* Largest Rectangular Area in a Histogram
-* The Celebrity Problem
-* Print ancestors of a given binary tree node without recursion
+* Largest Rectangular Area in a Histogram [**Solution**](maxRecHistArea.java) [**Explanation**](http://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+* The Celebrity Problem [**Explanation**](http://www.geeksforgeeks.org/the-celebrity-problem/)
 * Iterative Postorder Traversal using one stack
+* Print ancestors of a given binary tree node without recursion
+* Find maximum of minimum for every window size in a given array
 
 ### [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
