@@ -56,6 +56,20 @@
 * Print ancestors of a given binary tree node without recursion
 * Find maximum of minimum for every window size in a given array
 
+### Queue
+
+* Priority Queue introduction
+* Implement Queue using Stacks
+* Check whether a given Binary Tree is Complete or not
+* Find the largest multiple of 3
+* Find the first circular tour that visits all petrol pumps
+* Sliding Window Maximum (Maximum of all subarrays of size k)
+* An Interesting Method to Generate Binary Numbers from 1 to n
+* implement k Queues in a single array 
+* Minimum time required to rot all oranges
+* Construct Complete Binary Tree from its Linked List Representation
+* Implement LRU Cache
+
 ### [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
 * Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
@@ -87,8 +101,6 @@
 * Implement merge sort [**Solution**](mergeSort.java)
 * Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java)
 * Comparator Sorting [**Question**](comparator-sorting.pdf) [**Solution**](comparatorSorting.java)
-* How will you sort a Stack.
-* Write a function that accepts two already sorted lists and returns their union in a sorted list.
 * Write a function that takes two sorted vectors and returns a single sorted vector.
 * Heap Sort (Binary Heap)
 * Interpolation Search
