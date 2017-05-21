@@ -9,6 +9,9 @@
   * [**Set 3 (Graph, Trie, Segment Tree and Suffix Tree)**](http://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/)
 * [**1) Technical Interview Cheat Sheet**](https://github.com/sacert/Technical-Interview-Cheat-Sheet)
 * [**2) Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+* [**Priority Queue introduction**](http://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
+
+
 ### Linked list :
 * How will you detect cycle and remove it from the linked list  [**Solution**](detectCycleLinkedList.java) [**Explanation**](http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/)
 * Create a function that does addition where the numbers are represented as two linked lists.[**Solution**](AddLinkedList.java)    [**Explanation**](http://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)
@@ -29,6 +32,8 @@
 * Split a Circular Linked List into two halves [**Explanation**](http://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/)
 * Sorted insert for circular linked list [**Explanation**](http://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/)
 * Swap Kth node from beginning with Kth node from end in a Linked List [**Solution**](swapLinkedList.java)
+* Remove Dups: Write code to remove duplicates from an unsorted linked list. [**Explanation**](http://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)
+* Palindrome: Implement a function to check if a linked list is a palindrome. [**Explanation**](http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/)
 
 ### Stack
  
@@ -52,14 +57,13 @@
 * Length of the longest valid substring [**Solution**](valid_substring.java) [**Explanation**](http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/)
 * Largest Rectangular Area in a Histogram [**Solution**](maxRecHistArea.java) [**Explanation**](http://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
 * The Celebrity Problem [**Explanation**](http://www.geeksforgeeks.org/the-celebrity-problem/)
-* Iterative Postorder Traversal using one stack
-* Print ancestors of a given binary tree node without recursion
+* Iterative Postorder Traversal using one stack [**Explanation**](http://www.geeksforgeeks.org/iterative-postorder-traversal-using-stack/)
+* Print ancestors of a given binary tree node without recursion [**Explanation**](http://www.geeksforgeeks.org/print-ancestors-of-a-given-binary-tree-node-without-recursion/)
 * Find maximum of minimum for every window size in a given array
 
 ### Queue
 
-* Priority Queue introduction
-* Implement Queue using Stacks
+* Implement Queue using Stacks [**Explanation**](queusingstack.pdf)
 * Check whether a given Binary Tree is Complete or not
 * Find the largest multiple of 3
 * Find the first circular tour that visits all petrol pumps
@@ -69,6 +73,20 @@
 * Minimum time required to rot all oranges
 * Construct Complete Binary Tree from its Linked List Representation
 * Implement LRU Cache
+
+### String
+
+* Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? 
+* Check Permutation: Given two strings, write a method to decide if one is a permutation of the other
+* URLify: Write a method to replace all spaces in a string with '%20: and that you are given the "true" length of the string
+* Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome.
+* One Away: There are three types of edits that can be performed on strings: insert a character,
+  remove a character, or replace a character. Given two strings, write a function to check if they are
+  one edit (or zero edits) away.   
+* Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675)    [**Solution**](stringCompression.java) 
+* String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  
+* Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
+* Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
 
 ### [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
@@ -95,6 +113,8 @@
 ### Matrix 
  
 * Implement Conway's game of life by predicting the next state of a matrix given its current state. 
+* Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the       image by 90 degrees. (an you do this in place? 
+* Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to O. 
    
 ### Sorting
 * Implement Quick sort [**Solution**](quickSort.java)
@@ -151,10 +171,9 @@
 * Bridges in a Graph
 
 ### Other Important Questions :
-* Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
-* Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675) [**Solution**](stringCompression.java)
+
 * A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](ctci-ransom-note.pdf) [**Solution**](RansomNotes.java)
-* Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
+
 * Given an array of integers, return all possible subsets and powerset of length n. [**Explanation**](http://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/) [**Solution**](allSubsetPowerset.java)
 * write a function that perforn left rotation in an array with k shift. [**Question**](array-left-rotation.pdf) [**Solution**](leftRotateaArray.java)
 * Element of max subarray and primality [**Question**](http://practice.geeksforgeeks.org/problems/sid-and-his-prime-money/0) [**Solution**](sidAndMaxMaoney.java) 
