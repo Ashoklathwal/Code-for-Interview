@@ -64,9 +64,7 @@
 
 ### Queue
 
-* Implement Queue using Stacks [**Explanation**](queusingstack.pdf)
-* Check whether a given Binary Tree is Complete or not
-* Find the largest multiple of 3
+* Implement Queue using Stacks [**Explanation**](queusingstack.pdf) [**Que_Using_1_Stack**](queUsingStk.java)
 * Find the first circular tour that visits all petrol pumps
 * Sliding Window Maximum (Maximum of all subarrays of size k)
 * An Interesting Method to Generate Binary Numbers from 1 to n
@@ -171,6 +169,7 @@
 * Maximum Path Sum in a Binary Tree
 * Check if a given array can represent Preorder Traversal of Binary Search Tree
 * Check whether a binary tree is a full binary tree or not
+* Check whether a given Binary Tree is Complete or not
 * Remove nodes on root to leaf paths of length < K
 * Reverse alternate levels of a perfect binary tree
 * zig-zag traversal of binary tree
@@ -194,7 +193,7 @@
 ### Other Important Questions :
 
 * A kidnaper wishes to write a ransom note using letters from a magazine article. You are given with the ransom note and magazine article find whether kidnaper can write a note using the article or not [**Question**](ctci-ransom-note.pdf) [**Solution**](RansomNotes.java)
-
+* Find the largest multiple of 3 from array of digits
 * Given an array of integers, return all possible subsets and powerset of length n. [**Explanation**](http://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/) [**Solution**](allSubsetPowerset.java)
 * write a function that perforn left rotation in an array with k shift. [**Question**](array-left-rotation.pdf) [**Solution**](leftRotateaArray.java)
 * Element of max subarray and primality [**Question**](http://practice.geeksforgeeks.org/problems/sid-and-his-prime-money/0) [**Solution**](sidAndMaxMaoney.java) 
