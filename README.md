@@ -76,6 +76,7 @@
 
 ### String
 
+* Reverse words in a given string
 * Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? 
 * Check Permutation: Given two strings, write a method to decide if one is a permutation of the other
 * URLify: Write a method to replace all spaces in a string with '%20: and that you are given the "true" length of the string
@@ -90,6 +91,7 @@
 
 ### Bitwise Manipulation
 
+* Count set bits in an integer
 * Insertion: You are given two 32-bit numbers, Nand M, and two bit positions, i and j. Write a method to insert Minto N such that M       starts at bit j and ends at bit i. You can assume that the bits j through i have enough space to fit all of M. That is, if M = 10011,   you can assume that there are at least 5 bits between j and i. You would not, for example, have j = 3 and i = 2, because M could not     fully fit between bit 3 and bit 2.
   EXAMPLE
    Input: N = 10001001100,M = 10011, i = 2, j = 6
