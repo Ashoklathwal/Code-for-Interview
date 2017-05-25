@@ -65,17 +65,21 @@
 ### Queue
 
 * Implement Queue using Stacks [**Explanation**](queusingstack.pdf) [**Que_Using_1_Stack**](queUsingStk.java)
+* An Interesting Method to Generate Binary Numbers from 1 to n [**Solution**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/generateBN.java)
+* implement k Queues in a single array [**Explanation**](http://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/)
+* Animal Shelter: An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis. People must       adopt either the "oldest" (based on arrival time) of all animals at the shelter, or they can select whether they would prefer a dog or   a cat (and will receive the oldest animal of that type). They cannot select which specific animal they would like. Create the data       structures to maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog,and dequeueCat. You may use the     built-in Linked List data structure [**Solution**](More%20Codes/generateBN.java)
+* Construct Complete Binary Tree from its Linked List Representation [**Explanation**](http://www.geeksforgeeks.org/given-linked-list-representation-of-complete-tree-convert-it-to-linked-representation/)
+* Implement LRU Cache
 * Find the first circular tour that visits all petrol pumps
 * Sliding Window Maximum (Maximum of all subarrays of size k)
-* An Interesting Method to Generate Binary Numbers from 1 to n
-* implement k Queues in a single array 
 * Minimum time required to rot all oranges
-* Construct Complete Binary Tree from its Linked List Representation
-* Implement LRU Cache
-* Animal Shelter: An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis. People must       adopt either the "oldest" (based on arrival time) of all animals at the shelter, or they can select whether they would prefer a dog or   a cat (and will receive the oldest animal of that type). They cannot select which specific animal they would like. Create the data       structures to maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog,and dequeueCat. You may use the     built-in Linked List data structure
+
+
 
 ### String
 
+* Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-     program-to-print-all-permutations-of-a-given-string/))
+* Print all permutations in sorted (lexicographic) order [**Solution**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/strPermute.java) [**Explanation**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/String_permutation.pdf)
 * Reverse words in a given string
 * Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? 
 * Check Permutation: Given two strings, write a method to decide if one is a permutation of the other
@@ -208,8 +212,6 @@
 * Code a function that calculates the square root (2-point precision) of a given number(wihtout using the Math library). Follow up: Avoid redundant calculations by now optimizing your function with a caching mechanism. [**Babylonian method/Newton's method**](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method) [**Solution**](square_root.java) [**Explanation**](http://www.geeksforgeeks.org/square-root-of-a-perfect-square/) 
 * Write a function that raises one number to another number, i.e. the pow() function in log(n) time. [**Solution**](pow.java)
 * Implement integer division without using / or % in O(logN).
-* Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/) [**Solution**](AllPermutationWithOutDuplicateInInput.java) and with duplicates in input).
-* Print all permutations in sorted (lexicographic) order [**Explanation**](http://www.geeksforgeeks.org/lexicographic-permutations-of-string/)
 * given an array A[], and a rule array R[], A[] has some numbers... R[] has numbers from 0 to sizeof(A[])-1 (ie R[] has indices of A[] in shuffled order). So, by just looking at R[] and A[], you need to tell after how many rounds we will get original A[] if we apply R[] to it. ex. A[]={1,2,3} R[]={2,0,1} then answer should be 3
 * Given a number, obtain the next larger permutation and next lower permutation by swapping around the digits in the number.
 * Given a string, print out all its combinations.
