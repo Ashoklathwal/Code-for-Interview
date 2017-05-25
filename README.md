@@ -67,7 +67,7 @@
 * Implement Queue using Stacks [**Explanation**](queusingstack.pdf) [**Que_Using_1_Stack**](queUsingStk.java)
 * An Interesting Method to Generate Binary Numbers from 1 to n [**Solution**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/generateBN.java)
 * implement k Queues in a single array [**Explanation**](http://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/)
-* Animal Shelter: An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis. People must       adopt either the "oldest" (based on arrival time) of all animals at the shelter, or they can select whether they would prefer a dog or   a cat (and will receive the oldest animal of that type). They cannot select which specific animal they would like. Create the data       structures to maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog,and dequeueCat. You may use the     built-in Linked List data structure [**Solution**](More%20Codes/generateBN.java)
+* Animal Shelter: An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis. People must       adopt either the "oldest" (based on arrival time) of all animals at the shelter, or they can select whether they would prefer a dog or   a cat (and will receive the oldest animal of that type). They cannot select which specific animal they would like. Create the data       structures to maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog,and dequeueCat. You may use the     built-in Linked List data structure [**Solution**](More%20Codes/shelterAnimals.java)
 * Construct Complete Binary Tree from its Linked List Representation [**Explanation**](http://www.geeksforgeeks.org/given-linked-list-representation-of-complete-tree-convert-it-to-linked-representation/)
 * Implement LRU Cache
 * Find the first circular tour that visits all petrol pumps
@@ -78,11 +78,12 @@
 
 ### String
 
-* Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-     program-to-print-all-permutations-of-a-given-string/))
+* Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 * Print all permutations in sorted (lexicographic) order [**Solution**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/strPermute.java) [**Explanation**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/String_permutation.pdf)
-* Reverse words in a given string
-* Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? 
-* Check Permutation: Given two strings, write a method to decide if one is a permutation of the other
+* Reverse words in a given string [**Solution**](More%20Codes/reverseWordsInString.java)
+* Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? [**Explanation**](More%20Codes/Unique_char.pdf.pdf)
+* Check Permutation: Given two strings, write a method to decide if one is a permutation of the other [**Explanation**](http://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/)
+* Write a method to remove spaces from String [**Solution**](More%20Codes/removeSpace.java)
 * URLify: Write a method to replace all spaces in a string with '%20: and that you are given the "true" length of the string
 * Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome.
 * One Away: There are three types of edits that can be performed on strings: insert a character,
@@ -95,7 +96,9 @@
 
 ### Bitwise Manipulation
 
-* Count set bits in an integer
+* Count set bits in an integer [**Explanation**](http://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
+* Debugger: Explain what the following code does: ( (n & (n -1) ) == 0)
+       Ans : It tells that number 'n' is power of 2 or not.
 * Insertion: You are given two 32-bit numbers, Nand M, and two bit positions, i and j. Write a method to insert Minto N such that M       starts at bit j and ends at bit i. You can assume that the bits j through i have enough space to fit all of M. That is, if M = 10011,   you can assume that there are at least 5 bits between j and i. You would not, for example, have j = 3 and i = 2, because M could not     fully fit between bit 3 and bit 2.
   EXAMPLE
    Input: N = 10001001100,M = 10011, i = 2, j = 6
@@ -106,7 +109,6 @@
    Input: 1775 (or: 11011101111)
    Output: 8
 * Next Number: Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in       their binary representation.
-* Debugger: Explain what the following code does: ( (n & (n -1) ) == 0) .
 * Conversion: Write a function to determine the number of bits you would need to flip to convert integer A to integer B.
 * Pairwise Swap: Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 13 and bit 1     are swapped, bit 2 and bit 3 are swapped, and so on). 
 * Draw Line: A monochrome screen is stored as a single array of bytes, allowing eight consecutive pixels to be stored in one byte. The     screen has width w, where w is divisible by 8 (that is, no byte will be split across rows). The height of the screen, of course, can     be derived from the length of the array and the width. Implement a function that draws a horizontal line from (xl, y) to (x2 J y) .
