@@ -120,7 +120,13 @@
 * Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
 
 ### Dynamic Programming
-*  find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
+
+* Given two strings, find the Longest Common Subsequence between them. 
+* Given two strings, find the Longest Common Substring between them. 
+* Given an array of integers, find the Longest Increasing Subsequence of its items. 
+* Given two strings, find the Longest Palindromic Subsequence between them. 
+* Given two strings, find the Longest Palindromic Substring between them. 
+* find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
    [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
 * Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
