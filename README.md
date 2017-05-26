@@ -128,6 +128,10 @@
 * Given an array of integers, find the Longest Increasing Subsequence of its items. 
 * Given two strings, find the Longest Palindromic Subsequence between them. 
 * Given two strings, find the Longest Palindromic Substring between them. 
+* Given a string, Find all distinct palindromic subsequence of a given string
+* Given a string, Find all distinct palindromic sub-strings of a given string
+* Given a string, Count All Palindrome Subsequence in a String
+* Given a string, Count All Palindrome Sub-Strings in a String
 * find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
    [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
 * Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
