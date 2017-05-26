@@ -35,6 +35,7 @@
 * Swap Kth node from beginning with Kth node from end in a Linked List [**Solution**](swapLinkedList.java)
 * Remove Dups: Write code to remove duplicates from an unsorted linked list. [**Explanation**](http://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)
 * Palindrome: Implement a function to check if a linked list is a palindrome. [**Explanation**](http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/)
+* Implement LRU Cache [**Solution**](More%20Codes/LRUCache.java)
 
 ### Stack
  
@@ -69,7 +70,6 @@
 * implement k Queues in a single array [**Explanation**](http://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/)
 * Animal Shelter: An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis. People must       adopt either the "oldest" (based on arrival time) of all animals at the shelter, or they can select whether they would prefer a dog or   a cat (and will receive the oldest animal of that type). They cannot select which specific animal they would like. Create the data       structures to maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog,and dequeueCat. You may use the     built-in Linked List data structure [**Solution**](More%20Codes/shelterAnimals.java)
 * Construct Complete Binary Tree from its Linked List Representation [**Explanation**](http://www.geeksforgeeks.org/given-linked-list-representation-of-complete-tree-convert-it-to-linked-representation/)
-* Implement LRU Cache
 * Find the first circular tour that visits all petrol pumps
 * Sliding Window Maximum (Maximum of all subarrays of size k)
 * Minimum time required to rot all oranges
@@ -84,15 +84,17 @@
 * Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? [**Explanation**](More%20Codes/Unique_char.pdf.pdf)
 * Check Permutation: Given two strings, write a method to decide if one is a permutation of the other [**Explanation**](http://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/)
 * Write a method to remove spaces from String [**Solution**](More%20Codes/removeSpace.java)
-* URLify: Write a method to replace all spaces in a string with '%20: and that you are given the "true" length of the string
-* Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome.
+* URLify: Write a method to replace all spaces in a string with '%20: and that you are given the "true" length of the string [Solution](More%20Codes/ReplaceSpace.java)
+* Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome. [**Solution**](More%20Codes/isPermutationOfPalindrome.java)
 * One Away: There are three types of edits that can be performed on strings: insert a character,
   remove a character, or replace a character. Given two strings, write a function to check if they are
-  one edit (or zero edits) away.   
+  one edit (or zero edits) away. [**Solution**](More%20Codes/oneEditAway.java) 
 * Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675)    [**Solution**](stringCompression.java) 
 * String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
+* Count All Palindrome Sub-Strings in a String
+* Find all distinct palindromic sub-strings of a given string
 
 ### Bitwise Manipulation
 
