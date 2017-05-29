@@ -19,6 +19,8 @@ class parseStrToInteger
 			number *= 10;
 			number += str.charAt(i) - '0';// parsing
             //number += (int)str.charAt(i); // casting
+			//System.out.println('a' - '0'); // output : 49 // parsing
+                        //System.out.println((int)'a'); // output : 97 // casting
 		}
 		if(neg)
 			number = -number;
