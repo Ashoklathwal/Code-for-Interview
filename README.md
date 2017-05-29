@@ -61,7 +61,7 @@
 * The Celebrity Problem [**Explanation**](http://www.geeksforgeeks.org/the-celebrity-problem/)
 * Iterative Postorder Traversal using one stack [**Explanation**](http://www.geeksforgeeks.org/iterative-postorder-traversal-using-stack/)
 * Print ancestors of a given binary tree node without recursion [**Explanation**](http://www.geeksforgeeks.org/print-ancestors-of-a-given-binary-tree-node-without-recursion/)
-* Find maximum of minimum for every window size in a given array
+* Find maximum of minimum for every window size in a given array [**Solution**](More%20Codes/maxOfMinOfEveryWindowSize.java) [**Explanation**](http://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 
 ### Queue
 
@@ -71,7 +71,7 @@
 * Animal Shelter: An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis. People must       adopt either the "oldest" (based on arrival time) of all animals at the shelter, or they can select whether they would prefer a dog or   a cat (and will receive the oldest animal of that type). They cannot select which specific animal they would like. Create the data       structures to maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog,and dequeueCat. You may use the     built-in Linked List data structure [**Solution**](More%20Codes/shelterAnimals.java)
 * Construct Complete Binary Tree from its Linked List Representation [**Explanation**](http://www.geeksforgeeks.org/given-linked-list-representation-of-complete-tree-convert-it-to-linked-representation/)
 * Find the first circular tour that visits all petrol pumps
-* Sliding Window Maximum (Maximum of all subarrays of size k)
+* Sliding Window Maximum (Maximum of all subarrays of size k) [**Solution**](More%20Codes/maxOfSubArrayOfSizeK.java) [**Explanation**](http://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 * Minimum time required to rot all oranges
 
 
@@ -93,20 +93,18 @@
 * String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
-* Count All Palindrome Sub-Strings in a String
-* Find all distinct palindromic sub-strings of a given string
 
 ### Bitwise Manipulation
 
 * Count set bits in an integer [**Explanation**](http://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
 * Debugger: Explain what the following code does: ( (n & (n -1) ) == 0)
        Ans : It tells that number 'n' is power of 2 or not.
-* Insertion: You are given two 32-bit numbers, Nand M, and two bit positions, i and j. Write a method to insert Minto N such that M       starts at bit j and ends at bit i. You can assume that the bits j through i have enough space to fit all of M. That is, if M = 10011,   you can assume that there are at least 5 bits between j and i. You would not, for example, have j = 3 and i = 2, because M could not     fully fit between bit 3 and bit 2.
+* Insertion: You are given two 32-bit numbers, Nand M, and two bit positions, i and j. Write a method to insert M into N such that M       starts at bit j and ends at bit i. You can assume that the bits j through i have enough space to fit all of M. That is, if M = 10011,   you can assume that there are at least 5 bits between j and i. You would not, for example, have j = 3 and i = 2, because M could not     fully fit between bit 3 and bit 2. [**Solution**](More%20Codes/updateBits.java)
   EXAMPLE
-   Input: N = 10001001100,M = 10011, i = 2, j = 6
+   Input:  N = 10000000000,M = 10011, i = 2, j = 6
    Output: N = 10001001100
-* Binary to String: Given a real number between 0 and 1 (e.g., 0.72) that is passed in as a double, print the binary representation. If   the number cannot be represented accurately in binary with at most 32 characters, print "ERROR:'   
-* Flip Bit to Win: You have an integer and you can flip exactly one bit from a 13 to a 1. Write code to find the length of the longest     sequence of ls you could create. 
+* Binary to String: Given a real number between 0 and 1 (e.g., 0.72) that is passed in as a double, print the binary representation. If   the number cannot be represented accurately in binary with at most 32 characters, print "ERROR:' [**Solution**](More%20Codes/DecimalToBinary.java)   
+* Flip Bit to Win: You have an integer and you can flip exactly one bit from a 0 to a 1. Write code to find the length of the longest     sequence of ls you could create. 
   EXAMPLE
    Input: 1775 (or: 11011101111)
    Output: 8
