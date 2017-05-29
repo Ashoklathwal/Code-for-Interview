@@ -11,6 +11,8 @@
 * [**2) Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 * [**Priority Queue introduction**](http://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
 * [**Bitwise Manipulation**](http://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
+* [**Dynamic Programming 1**](http://www.geeksforgeeks.org/dynamic-programming-set-1/)
+* [**Dynamic Programming 2**](http://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/)
 
 
 ### Linked list :
@@ -121,9 +123,11 @@
 
 ### Dynamic Programming
 
+* Given an array of integers, find the Longest Increasing Subsequence of its items. 
+  1) Time complexity : O(n^2) using DP [**Solution**](More%20Codes/longestIncreasingSubsequence1.java) [**Explanation**](https://www.youtube.com/watch?v=CE2b_-XfVDk&t=1s)
+  2) Time complexity : O(n*log(n)) 
 * Given two strings, find the Longest Common Subsequence between them. 
 * Given two strings, find the Longest Common Substring between them. 
-* Given an array of integers, find the Longest Increasing Subsequence of its items. 
 * Given two strings, find the Longest Palindromic Subsequence between them. 
 * Given two strings, find the Longest Palindromic Substring between them. 
 * Given a string, Find all distinct palindromic subsequence of a given string
