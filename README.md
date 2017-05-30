@@ -125,8 +125,8 @@
 
 * Given an array of integers, find the Longest Increasing Subsequence of its items. 
   1) Time complexity : O(n^2) using DP [**Solution**](More%20Codes/longestIncreasingSubsequence1.java) [**Explanation**](https://www.youtube.com/watch?v=CE2b_-XfVDk&t=1s)
-  2) Time complexity : O(n*log(n)) 
-* Given two strings, find the Longest Common Subsequence between them. 
+  2) Time complexity : O(n*log(n)) NOT DP [**Solution**](More%20Codes/longestIncreasingSubsequence_nlogn_method.java) [**Explanation**](http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/)
+* Given two strings, find the Longest Common Subsequence between them. [**Solution**](More%20Codes/longestCommonSubsequence.java) [**Explanation**](https://www.youtube.com/watch?v=NnD96abizww&t=53s) 
 * Given two strings, find the Longest Common Substring between them. 
 * Given two strings, find the Longest Palindromic Subsequence between them. 
 * Given two strings, find the Longest Palindromic Substring between them. 
@@ -139,8 +139,6 @@
 * Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
 * Given n stairs, how many number of ways can you climb if u use either 1 or 2 at a time? [**Question**](https://www.careercup.com/question?id=3590768)
-* Longest Common Subsequence
-* Longest Increasing Subsequence
 * Edit Distance
 * Minimum Partition
 * Ways to Cover a Distance
@@ -153,9 +151,16 @@
 
 ### Matrix 
  
+* Search in a row wise and column wise sorted matrix
+* Print a given matrix in spiral form
+* Maximum size square sub-matrix with all 1s
+* Maximum size rectangle binary sub-matrix with all 1s
+* Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to O.
 * Implement Conway's game of life by predicting the next state of a matrix given its current state. 
 * Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the       image by 90 degrees. (an you do this in place? 
-* Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to O. 
+* Program for Rank of Matrix
+* Count Negative Numbers in a Column-Wise and Row-Wise Sorted Matrix
+* Print maximum sum square sub-matrix of given size
    
 ### Sorting
 * Implement Quick sort [**Solution**](quickSort.java)
