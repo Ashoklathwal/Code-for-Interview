@@ -138,20 +138,47 @@
 * Given a string, Find all distinct palindromic sub-strings of a given string
 * Given a string, Count All Palindrome Subsequence in a String
 * Given a string, Count All Palindrome Sub-Strings in a String
+* Maximum Sum Subsequence Non-Adjacent
+* Longest Bitonic Subsequence
+* 0/1 Knapsack Problem 
+* 0/1 Knapsack Problem Top Down Dynamic Programming
+* Matrix Chain Multiplication
+* Subset Sum Problem 
+* Optimal Binary Search Tree
+* Coin Changing Minimum Number of Coins
+* Coin Changing Minimum Coins 
+* Coin Change Top down dynamic programming
+* Minimum Edit Distance 
+* Weighted Job Scheduling 
+* Cutting Rod dynamic programming
+* Egg Dropping Dynamic Programming
+* Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D kadane
+* Maximum Size Rectangle of All 1's Dynamic Programming
+* Maximum Sub Square Matrix Dynamic Programming
+* Text Justification Dynamic Programming
+* Word Break Problem Dynamic Programming
+* Minimum Cost Path Dynamic Programming
+* Box Stacking Dynamic Programming
+* Minimum jump to reach end
+* Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming
+* Palindrome Partition Dynamic Programming
+* Maximum Sum Increasing Subsequence Dynamic Programming
+* Wildcard Matching Dynamic Programming
+* Regular Expression Dynamic Programming
+* String Interleaving Dynamic Programming
+* Optimal Strategy Game Pick from Ends of array Dynamic Programming
+* Burst Balloon Dynamic Programming[Leetcode]
+* Staircase Problem Fibonacci Series
+* Numbers WIthout Consecutive 1s in binary representation
+* Count Number of Binary Search Tree Possible given n keys Dynamic Programming
+* Total Ways in Matrix Dynamic Programming
+* Sum Query in 2D Immutable Array Dynamic Programming
+* Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming
+* Maximum Subsquare With Sides as X
 * find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
    [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
 * Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
-* Given n stairs, how many number of ways can you climb if u use either 1 or 2 at a time? [**Question**](https://www.careercup.com/question?id=3590768)
-* Edit Distance
-* Minimum Partition
-* Ways to Cover a Distance
-* Longest Path In Matrix
-* Subset Sum Problem
-* Optimal Strategy for a Game
-* 0-1 Knapsack Problem
-* Boolean Parenthesization Problem
-* find the largest palindrome in the string
 
 ### Matrix 
  
