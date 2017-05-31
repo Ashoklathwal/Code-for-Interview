@@ -128,8 +128,12 @@
   2) Time complexity : O(n*log(n)) NOT DP [**Solution**](More%20Codes/longestIncreasingSubsequence_nlogn_method.java) [**Explanation**](http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/)
 * Given two strings, find the Longest Common Subsequence between them. [**Solution**](More%20Codes/longestCommonSubsequence.java) [**Explanation**](https://www.youtube.com/watch?v=NnD96abizww&t=53s) 
 * Given two strings, find the Longest Common Substring between them. 
-* Given two strings, find the Longest Palindromic Subsequence between them. 
-* Given two strings, find the Longest Palindromic Substring between them. 
+  1) Time complexity : O(m*n) using DP [**Solution**](More%20Codes/longestCommonSubString.java) [**Explanation**](https://www.youtube.com/watch?v=BysNXJHzCEs)
+  2) Time complexity : O(m + n) using Suffix Tree
+* Given a string, find the Longest Palindromic Subsequence between them. [**Solution**](More%20Codes/longestPalindromicSubsequence.java)
+* Given a string, find the Longest Palindromic Substring between them. 
+  1) Time Complexity : O(n^2) using DP
+  2) Time Complexity : O(n) using Manacher’s Algorithm
 * Given a string, Find all distinct palindromic subsequence of a given string
 * Given a string, Find all distinct palindromic sub-strings of a given string
 * Given a string, Count All Palindrome Subsequence in a String
