@@ -95,6 +95,8 @@
 * String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
+* Find all substring of a given String.
+* Find all palindromic substring of a given string.
 
 ### Bitwise Manipulation
 
@@ -106,9 +108,9 @@
    Input:  N = 10000000000,M = 10011, i = 2, j = 6
    Output: N = 10001001100
 * Binary to String: Given a real number between 0 and 1 (e.g., 0.72) that is passed in as a double, print the binary representation. If   the number cannot be represented accurately in binary with at most 32 characters, print "ERROR:' [**Solution**](More%20Codes/DecimalToBinary.java)   
-* Flip Bit to Win: You have an integer and you can flip exactly one bit from a 0 to a 1. Write code to find the length of the longest     sequence of ls you could create. 
+* Flip Bit to Win: You have an integer and you can flip exactly 'm' bit from a 0 to a 1. Write code to find the length of the longest     sequence of ls you could create. [**Solution**](More%20Codes/flip_0_To_1.java)
   EXAMPLE
-   Input: 1775 (or: 11011101111)
+   Input: 1775 (or: 11011101111) m = 1
    Output: 8
 * Next Number: Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in       their binary representation.
 * Conversion: Write a function to determine the number of bits you would need to flip to convert integer A to integer B.
@@ -132,8 +134,8 @@
   2) Time complexity : O(m + n) using Suffix Tree
 * Given a string, find the Longest Palindromic Subsequence between them. [**Solution**](More%20Codes/longestPalindromicSubsequence.java)
 * Given a string, find the Longest Palindromic Substring between them. 
-  1) Time Complexity : O(n^2) using DP
-  2) Time Complexity : O(n) using Manacher’s Algorithm
+  1) Time Complexity : O(n^2) NOT DP [**Solution**](More%20Codes/longestPalindromicSubString1.java) 
+  2) Time Complexity : O(n) using Manacher’s Algorithm [**Solution**](More%20Codes/longestPalindromicSubString2.java) [**Exp_1**](More%20Codes/longestPalindromicSubString1.java) [**Exp_2**](https://www.youtube.com/watch?v=V-sEwsca1ak)
 * Given a string, Find all distinct palindromic subsequence of a given string
 * Given a string, Find all distinct palindromic sub-strings of a given string
 * Given a string, Count All Palindrome Subsequence in a String
@@ -179,6 +181,7 @@
    [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
 * Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
+* Longest Mod path
 
 ### Matrix 
  
