@@ -135,13 +135,13 @@
 * Given a string, find the Longest Palindromic Subsequence between them. [**Solution**](More%20Codes/longestPalindromicSubsequence.java)
 * Given a string, find the Longest Palindromic Substring between them. 
   1) Time Complexity : O(n^2) NOT DP [**Solution**](More%20Codes/longestPalindromicSubString1.java) 
-  2) Time Complexity : O(n) using Manacher’s Algorithm [**Solution**](More%20Codes/longestPalindromicSubString2.java) [**Exp_1**](More%20Codes/longestPalindromicSubString1.java) [**Exp_2**](https://www.youtube.com/watch?v=V-sEwsca1ak)
+  2) Time Complexity : O(n) using Manacher’s Algorithm [**Solution**](More%20Codes/longestPalindromicSubString2.java) [**Exp_1**](More%20Codes/stingPalindrome.pdf) [**Exp_2**](https://www.youtube.com/watch?v=V-sEwsca1ak)
 * Longest Bitonic Subsequence [**Solution**](More%20Codes/longestBiotonicSubsequence.java)
 * Maximum Sum Subsequence Non-Adjacent [**Solution**](More%20Codes/maxSumSubsequenceNonAdjacent.java)
 * Largest sum subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxSumSubarray.java)
 * Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
 * 0/1 Knapsack Problem [**Solution**](More%20Codes/01knapsack.java) [**Exp_1**](More%20Codes/knapsack.pdf)  [**Exp_2**](https://www.youtube.com/watch?v=8LusJS5-AGo)
-* Matrix Chain Multiplication
+* Matrix Chain Multiplication [**Explanation**](More%20Codes/mcm.pdf)
 * Subset Sum Problem 
 * Optimal Binary Search Tree
 * Coin Changing Minimum Number of Coins
