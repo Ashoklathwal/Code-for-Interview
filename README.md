@@ -136,14 +136,11 @@
 * Given a string, find the Longest Palindromic Substring between them. 
   1) Time Complexity : O(n^2) NOT DP [**Solution**](More%20Codes/longestPalindromicSubString1.java) 
   2) Time Complexity : O(n) using Manacher’s Algorithm [**Solution**](More%20Codes/longestPalindromicSubString2.java) [**Exp_1**](More%20Codes/longestPalindromicSubString1.java) [**Exp_2**](https://www.youtube.com/watch?v=V-sEwsca1ak)
-* Given a string, Find all distinct palindromic subsequence of a given string
-* Given a string, Find all distinct palindromic sub-strings of a given string
-* Given a string, Count All Palindrome Subsequence in a String
-* Given a string, Count All Palindrome Sub-Strings in a String
-* Maximum Sum Subsequence Non-Adjacent
-* Longest Bitonic Subsequence
-* 0/1 Knapsack Problem 
-* 0/1 Knapsack Problem Top Down Dynamic Programming
+* Longest Bitonic Subsequence [**Solution**](More%20Codes/longestBiotonicSubsequence.java)
+* Maximum Sum Subsequence Non-Adjacent [**Solution**](More%20Codes/maxSumSubsequenceNonAdjacent.java)
+* Largest sum subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxSumSubarray.java)
+* Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
+* 0/1 Knapsack Problem [**Solution**](More%20Codes/01knapsack.java) [**Exp_1**](More%20Codes/knapsack.pdf)  [**Exp_2**](https://www.youtube.com/watch?v=8LusJS5-AGo)
 * Matrix Chain Multiplication
 * Subset Sum Problem 
 * Optimal Binary Search Tree
@@ -182,6 +179,10 @@
 * Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
 * Longest Mod path
+* Given a string, Find all distinct palindromic subsequence of a given string
+* Given a string, Find all distinct palindromic sub-strings of a given string
+* Given a string, Count All Palindrome Subsequence in a String
+* Given a string, Count All Palindrome Sub-Strings in a String
 
 ### Matrix 
  
