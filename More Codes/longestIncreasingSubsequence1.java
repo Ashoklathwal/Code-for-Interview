@@ -33,8 +33,13 @@ class longestIncreasingSubsequence1
 				}
 			}
 		}
-
-		System.out.println("longest Increasing Subsequence : "+output[n-1]);
+		int maxValue = 0;
+                for(int i=0; i<n; i++)
+		{
+		  if(output[i] > maxValue)
+		      maxValue = output[i];
+		}
+		System.out.println("longest Increasing Subsequence : "+maxValue);
 
 		// find maximum index in output array
 		int maxIndex = 0;
