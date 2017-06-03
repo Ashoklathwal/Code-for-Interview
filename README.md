@@ -92,7 +92,7 @@
   remove a character, or replace a character. Given two strings, write a function to check if they are
   one edit (or zero edits) away. [**Solution**](More%20Codes/oneEditAway.java) 
 * Given a string "aaabbbcc", compress it into "a3b3c2" in-place.[**Original Question**](https://www.careercup.com/question?id=7449675)    [**Solution**](stringCompression.java) 
-* String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  
+* String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  [**Solution**](More%20Codes/isRotation.java)
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
 * Find all substring of a given String.
@@ -101,6 +101,8 @@
 ### Bitwise Manipulation
 
 * Count set bits in an integer [**Explanation**](http://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
+* Conversion: Write a function to determine the number of bits you would need to flip to convert integer A to integer B. [**Solution**](More%20Codes/flipAtoB.java)
+* How to swap two numbers without using a temporary variable [**Explanation**](http://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/)
 * Debugger: Explain what the following code does: ( (n & (n -1) ) == 0)
        Ans : It tells that number 'n' is power of 2 or not.
 * Insertion: You are given two 32-bit numbers, Nand M, and two bit positions, i and j. Write a method to insert M into N such that M       starts at bit j and ends at bit i. You can assume that the bits j through i have enough space to fit all of M. That is, if M = 10011,   you can assume that there are at least 5 bits between j and i. You would not, for example, have j = 3 and i = 2, because M could not     fully fit between bit 3 and bit 2. [**Solution**](More%20Codes/updateBits.java)
@@ -108,13 +110,12 @@
    Input:  N = 10000000000,M = 10011, i = 2, j = 6
    Output: N = 10001001100
 * Binary to String: Given a real number between 0 and 1 (e.g., 0.72) that is passed in as a double, print the binary representation. If   the number cannot be represented accurately in binary with at most 32 characters, print "ERROR:' [**Solution**](More%20Codes/DecimalToBinary.java)   
-* Flip Bit to Win: You have an integer and you can flip exactly 'm' bit from a 0 to a 1. Write code to find the length of the longest     sequence of ls you could create. [**Solution**](More%20Codes/flip_0_To_1.java)
+* Flip Bit to Win: You have an integer and you can flip exactly 'm' bit from a 0 to a 1. Write code to find the length of the longest     sequence of ls you could create. [**Solution**](More%20Codes/flip_0_To_1.java)            
   EXAMPLE
    Input: 1775 (or: 11011101111) m = 1
    Output: 8
-* Next Number: Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in       their binary representation.
-* Conversion: Write a function to determine the number of bits you would need to flip to convert integer A to integer B.
-* Pairwise Swap: Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 13 and bit 1     are swapped, bit 2 and bit 3 are swapped, and so on). 
+* Next Number: Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in       their binary representation. [**Solution**](More%20Codes/nextLargestSmallest.java) [**Explanation**](More%20Codes/next_largest.ppt)
+* Pairwise Swap: Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 13 and bit 1     are swapped, bit 2 and bit 3 are swapped, and so on). [**Explanation**](http://www.geeksforgeeks.org/swap-all-odd-and-even-bits/)
 * Draw Line: A monochrome screen is stored as a single array of bytes, allowing eight consecutive pixels to be stored in one byte. The     screen has width w, where w is divisible by 8 (that is, no byte will be split across rows). The height of the screen, of course, can     be derived from the length of the array and the width. Implement a function that draws a horizontal line from (xl, y) to (x2 J y) .
   The method signature should look something like:
    drawLine(byte[] screen, int width, int xl, int x2, int y) 
