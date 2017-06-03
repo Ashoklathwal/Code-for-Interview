@@ -114,7 +114,7 @@
   EXAMPLE
    Input: 1775 (or: 11011101111) m = 1
    Output: 8
-* Next Number: Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in       their binary representation. [**Solution**](More%20Codes/nextLargestSmallest.java) [**Explanation**](More%20Codes/next_largest.ppt)
+* Next Number: Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in       their binary representation. [**Solution**](More%20Codes/nextLargestSmallest.java) [**Explanation**](More%20Codes/next_largest.pdf)
 * Pairwise Swap: Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 13 and bit 1     are swapped, bit 2 and bit 3 are swapped, and so on). [**Explanation**](http://www.geeksforgeeks.org/swap-all-odd-and-even-bits/)
 * Draw Line: A monochrome screen is stored as a single array of bytes, allowing eight consecutive pixels to be stored in one byte. The     screen has width w, where w is divisible by 8 (that is, no byte will be split across rows). The height of the screen, of course, can     be derived from the length of the array and the width. Implement a function that draws a horizontal line from (xl, y) to (x2 J y) .
   The method signature should look something like:
