@@ -130,6 +130,7 @@
 * Find the Missing Number
 * Search an element in a sorted and rotated array
 * Program for array rotation
+* Tic Tac Win: Design an algorithm to figure out if someone has won a game of tic-tac-toe
 * Sort elements by frequency
 * Count frequencies of all elements in array in O(1) extra space and O(n) time
 * Maximum difference between two elements such that larger element appears after the smaller number
