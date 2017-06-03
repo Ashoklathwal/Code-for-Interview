@@ -7,8 +7,7 @@
   * [Set 1 (Linear Data Structures)](http://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/) 
   * [**Set 2 (Binary Tree, BST, Heap and Hash)**](http://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/)
   * [**Set 3 (Graph, Trie, Segment Tree and Suffix Tree)**](http://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/)
-* [**1) Technical Interview Cheat Sheet**](https://github.com/sacert/Technical-Interview-Cheat-Sheet)
-* [**2) Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+* [**Which sorting algorithm makes minimum number of memory writes**](http://www.geeksforgeeks.org/which-sorting-algorithm-makes-minimum-number-of-writes/)
 * [**Priority Queue introduction**](http://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
 * [**Bitwise Manipulation**](http://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
 * [**Dynamic Programming 1**](http://www.geeksforgeeks.org/dynamic-programming-set-1/)
@@ -116,6 +115,7 @@
    Output: 8
 * Next Number: Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in       their binary representation. [**Solution**](More%20Codes/nextLargestSmallest.java) [**Explanation**](More%20Codes/next_largest.pdf)
 * Pairwise Swap: Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 13 and bit 1     are swapped, bit 2 and bit 3 are swapped, and so on). [**Explanation**](http://www.geeksforgeeks.org/swap-all-odd-and-even-bits/)
+* [NOT BIT] Find next greater number with same set of digits [**Solution**](More%20Codes/nextGreaterSameDigits.java) [**Explanation**](http://www.geeksforgeeks.org/find-next-greater-number-set-digits/)
 * Draw Line: A monochrome screen is stored as a single array of bytes, allowing eight consecutive pixels to be stored in one byte. The     screen has width w, where w is divisible by 8 (that is, no byte will be split across rows). The height of the screen, of course, can     be derived from the length of the array and the width. Implement a function that draws a horizontal line from (xl, y) to (x2 J y) .
   The method signature should look something like:
    drawLine(byte[] screen, int width, int xl, int x2, int y) 
@@ -123,6 +123,51 @@
 ### [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
 * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
 * Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
+
+### Arrays
+
+* Given an array A[] and a number x, check for pair in A[] with sum as x
+* Find the Missing Number
+* Search an element in a sorted and rotated array
+* Program for array rotation
+* Sort elements by frequency
+* Count frequencies of all elements in array in O(1) extra space and O(n) time
+* Maximum difference between two elements such that larger element appears after the smaller number
+* A Product Array Puzzle
+* Find subarray with given sum
+* Find a triplet that sum to a given value
+* Count triplets with sum smaller than a given value  
+* Sort an array of 0s, 1s and 2s
+* Check for Majority Element
+* Given an array of of size n and a number k, find all elements that appear more than n/k times
+* Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
+* Median of two sorted arrays
+* k^th largest/smallest element in an array
+* * k largest/smallest elements in an array
+* Segregate Even and Odd numbers
+* Find the two repeating elements in a given array
+* Given an array arr[], find the maximum j – i such that arr[j] > arr[i]
+* Sort an array in wave form
+* Find a sorted subsequence of size 3 in linear time
+* Tug of War
+* Find a peak element
+* Merge k sorted arrays
+* Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+* Find duplicates in O(n) time and O(1) extra space
+* Equilibrium index of an array
+* Find the smallest missing number
+* Find whether an array is subset of another array 
+* Find the minimum distance between two numbers
+* Find the closest pair from two arrays
+* Check if a given array contains duplicate elements within k distance from each other
+* Online algorithm for checking palindrome in a stream
+* Pythagorean Triplet in an array
+* Find Union and Intersection of two unsorted arrays
+* Minimum number of swaps required for arranging pairs adjacent to each other
+* Trapping Rain Water
+* Convert array into Zig-Zag fashion
+* Count pairs with given sum
+* Minimize the maximum difference between the heights
 
 ### Dynamic Programming
 
@@ -142,8 +187,12 @@
 * Largest sum subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxSumSubarray.java)
 * Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
 * 0/1 Knapsack Problem [**Solution**](More%20Codes/01knapsack.java) [**Exp_1**](More%20Codes/knapsack.pdf)  [**Exp_2**](https://www.youtube.com/watch?v=8LusJS5-AGo)
-* Matrix Chain Multiplication [**Explanation**](More%20Codes/mcm.pdf)
+* Matrix Chain Multiplication [**Solution**](More%20Codes/matrixChainMultiplication.java) [**Explanation-1**](More%20Codes/mcm.pdf) [**Explanation-2**](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)
 * Subset Sum Problem 
+* 'Partition problem' is to determine whether a given set can be partitioned into two subsets such that the sum of elements in both         subsets is same.
+* [NOT DP] Subset sum queries using bitset
+* Subset with sum divisible by m
+* Maximum Length Bitonic Subarray
 * Optimal Binary Search Tree
 * Coin Changing Minimum Number of Coins
 * Coin Changing Minimum Coins 
@@ -172,6 +221,7 @@
 * Numbers WIthout Consecutive 1s in binary representation
 * Count Number of Binary Search Tree Possible given n keys Dynamic Programming
 * Total Ways in Matrix Dynamic Programming
+* Maximum profit by buying and selling a share at most twice
 * Sum Query in 2D Immutable Array Dynamic Programming
 * Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming
 * Maximum Subsquare With Sides as X
@@ -189,6 +239,7 @@
  
 * Search in a row wise and column wise sorted matrix
 * Print a given matrix in spiral form
+* Find the number of islands
 * Maximum size square sub-matrix with all 1s
 * Maximum size rectangle binary sub-matrix with all 1s
 * Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to O.
@@ -197,11 +248,14 @@
 * Program for Rank of Matrix
 * Count Negative Numbers in a Column-Wise and Row-Wise Sorted Matrix
 * Print maximum sum square sub-matrix of given size
+* Find the row with maximum number of 1s
+
    
-### Sorting
+### Sorting and searching 
+
 * Implement Quick sort [**Solution**](quickSort.java)
 * Implement merge sort [**Solution**](mergeSort.java)
-* Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java)
+* Counting Inversion : Merge sort [**Question**](merge-sort-counting_Inversion.pdf) [**Solution**](mergeSortCountInversion.java) [**Explanation**](http://www.geeksforgeeks.org/counting-inversions/)
 * Comparator Sorting [**Question**](comparator-sorting.pdf) [**Solution**](comparatorSorting.java)
 * Write a function that takes two sorted vectors and returns a single sorted vector.
 * Heap Sort (Binary Heap)
@@ -223,10 +277,12 @@
    * Determines the in-order successor and predeccessor for a node in BST
    * find the k'th largest element in a Binary Search Tree(BST)?[**Explanation**](http://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/)
    * Find Diameter of binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/diameter-of-a-binary-tree/)    
-   * Print top view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-top-view-of-a-binary-tree/)
-   * Left view of BT
-   * Print Bottom view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-bottom-view-of-the-binary-tree/)
-   * Create mirror image of BT
+* Print top view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-top-view-of-a-binary-tree/)
+* Bottom view
+* Left view of BT
+* Right view
+* Print Bottom view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-bottom-view-of-the-binary-tree/)
+* Create mirror image of BT
 * Check one BT is subset of another BT or not   
 * Find Minimum Depth of a Binary Tree
 * Maximum Path Sum in a Binary Tree
@@ -261,7 +317,6 @@
 * write a function that perforn left rotation in an array with k shift. [**Question**](array-left-rotation.pdf) [**Solution**](leftRotateaArray.java)
 * Element of max subarray and primality [**Question**](http://practice.geeksforgeeks.org/problems/sid-and-his-prime-money/0) [**Solution**](sidAndMaxMaoney.java) 
 * Given two strings, and , that may or may not be of the same length, determine the minimum number of character deletions required to     make and anagrams. Any characters can be deleted from either of the strings. [**Question**](making-anagrams.pdf) [**Solution**](makingAnagram.java)
-* Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
 * Given the respective heights for each of the  staircases in his house, find and print the number of ways he can climb each staircase. [**Question**](recursive-staircase.pdf) [**Solution**](staircase.java)
 * Lonely Integer OR Find the Number Occurring Odd Number of Times [**Question**]() [**Solution**](lonelyInteger.java) [**Explanation**](http://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
 * Check wheather number is prime or not  [**Solution**](Primality.java)
