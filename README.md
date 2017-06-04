@@ -263,7 +263,7 @@
 * Interpolation Search
 
 ### Trees
-* [**Algorithms on binary trees**](binary_tree.java). Comprises of the following algorithms:
+* [**Algorithms on binary trees**](More%20Codes/binary_tree.java). Comprises of the following algorithms:
    * Given a node value, finds the node in tree using dfs
    * Pre-order traversal
    * In-order traversal
@@ -277,12 +277,13 @@
    * Prints the average value for each level in tree
    * Determines the in-order successor and predeccessor for a node in BST
    * find the k'th largest element in a Binary Search Tree(BST)?[**Explanation**](http://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/)
-   * Find Diameter of binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/diameter-of-a-binary-tree/)    
-* Print top view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-top-view-of-a-binary-tree/)
-* Bottom view
-* Left view of BT
-* Right view
-* Print Bottom view of Binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/print-the-bottom-view-of-the-binary-tree/)
+   * Find Diameter of binary tree [**Explanation**](http://algorithms.tutorialhorizon.com/diameter-of-a-binary-tree/)   
+* [**Views of Binary Tree**](More%20Codes/btView.java) 
+  * Print Left view of BT
+  * Print Right view of BT
+  * Print Vertical order path of BT
+  * Print top view of Binary tree 
+  * Print bottom view of Binary tree 
 * Create mirror image of BT
 * Check one BT is subset of another BT or not   
 * Find Minimum Depth of a Binary Tree
