@@ -128,6 +128,8 @@
 
 * Given an array A[] and a number x, check for pair in A[] with sum as x
 * Find the Missing Number
+* Given an array where every element occurs 'N' times, except one element which occurs only once. 
+   Find the element that occurs once [**Solution**](More%20Codes/occur_N_timeExceptOne.java)
 * Search an element in a sorted and rotated array
 * Program for array rotation
 * Tic Tac Win: Design an algorithm to figure out if someone has won a game of tic-tac-toe
@@ -284,10 +286,14 @@
   * Print Vertical order path of BT
   * Print top view of Binary tree 
   * Print bottom view of Binary tree 
-* Create mirror image of BT
-* Check one BT is subset of another BT or not   
-* Find Minimum Depth of a Binary Tree
-* Maximum Path Sum in a Binary Tree
+* Create mirror image of BT [**Explanation**](http://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/)
+* check 2 tree are morror of each other or not [**Explanation**](http://www.geeksforgeeks.org/check-if-two-trees-are-mirror/) 
+* Check one BT is subset of another BT or not [**Explanation**](http://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/)  
+* Find Minimum or max Depth of a Binary Tree [**Min**](http://www.geeksforgeeks.org/find-minimum-depth-of-a-binary-tree/) [**Max**](http://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/) 
+* Maximum Path Sum in a Binary Tree 
+  * In given BT [**Explanation**](http://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
+  * From leaf to root [**Explanation**](http://algorithms.tutorialhorizon.com/given-a-binary-tree-find-out-the-maximum-sum-of-value-from-root-to-each-leaf/)
+  * Between 2 leaves [**Explanation**](http://algorithms.tutorialhorizon.com/given-a-binary-tree-find-the-maximum-path-sum-between-any-two-leaves/)
 * Check if a given array can represent Preorder Traversal of Binary Search Tree
 * Check whether a binary tree is a full binary tree or not
 * Check whether a given Binary Tree is Complete or not
