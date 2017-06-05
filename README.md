@@ -12,6 +12,8 @@
 * [**Bitwise Manipulation**](http://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
 * [**Dynamic Programming 1**](http://www.geeksforgeeks.org/dynamic-programming-set-1/)
 * [**Dynamic Programming 2**](http://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/)
+* [**Serialize and Deserialize a Binary Tree**](http://www.geeksforgeeks.org/serialize-deserialize-binary-tree/)
+* [**Minimum no. of iterations to pass information to all nodes in the tree**](http://www.geeksforgeeks.org/minimum-iterations-pass-information-nodes-tree/)
 
 
 ### Linked list :
@@ -296,12 +298,47 @@
   * In given BT [**Explanation**](http://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
   * From leaf to root [**Explanation**](http://algorithms.tutorialhorizon.com/given-a-binary-tree-find-out-the-maximum-sum-of-value-from-root-to-each-leaf/)
   * Between 2 leaves [**Explanation**](http://algorithms.tutorialhorizon.com/given-a-binary-tree-find-the-maximum-path-sum-between-any-two-leaves/)
-* Print all the paths from root, with a specified sum in Binary tree [**Explanation**](http://www.geeksforgeeks.org/print-paths-root-specified-sum-binary-tree/)
-* Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals   the given sum. [**Explanation**](http://www.programcreek.com/2013/01/leetcode-path-sum/)
-* Print all k-sum paths in a binary tree
+* [**Print all the paths**](More%20Codes/sumPath.java) 
+  * from root, with a specified sum in Binary tree
+  * from root to leaf node with a specified sum in Binary tree
+  * all k-sum paths in a binary tree
+* Given a binary tree, print out all of its root-to-leaf paths one per line.  
 * Remove nodes on root to leaf paths of length < K
 * Reverse alternate levels of a perfect binary tree
 * zig-zag traversal of binary tree
+* Connect nodes at same level
+* Boundary Traversal of binary tree
+* Convert a given Binary Tree to Doubly Linked List
+* Binary Tree to Binary Search Tree Conversion
+* Find the closest leaf in a Binary Tree
+* Construct Binary Tree from given Parent Array representation
+* Find the largest BST subtree in a given Binary Tree 
+* Add all greater values to every node in a given BST
+* Merge two BSTs with limited extra space
+* Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
+* K’th Largest Element in BST when modification to BST is not allowed
+* Second largest element in BST
+* How to handle duplicates in Binary Search Tree?
+* Count BST nodes that lie in a given range
+* Double Tree
+* Foldable Binary Trees
+* Print nodes at k distance from root
+* Print all nodes that are at distance k from a leaf node
+* Print all nodes at distance k from a given node
+* Get Level of a node in a Binary Tree
+* Check if a given Binary Tree is SumTree
+* Ternary Search Tree
+* Dynamic Programming | Set 26 (Largest Independent Set Problem)
+* Tree Isomorphism Problem
+* Find all possible interpretations of an array of digits
+* Difference between sums of odd level and even level nodes of a Binary Tree
+* Check if all leaves are at same level
+* Check if two nodes are cousins in a Binary Tree
+* Convert a Binary Tree to Threaded binary tree
+* Convert an arbitrary Binary Tree to a tree that holds Children Sum Property
+* Mirror of n-ary Tree
+* Symmetric Tree (Mirror Image of itself)
+* 
 
 
 ### Graphs
