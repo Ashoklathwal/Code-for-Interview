@@ -290,13 +290,15 @@
 * check 2 tree are morror of each other or not [**Explanation**](http://www.geeksforgeeks.org/check-if-two-trees-are-mirror/) 
 * Check one BT is subset of another BT or not [**Explanation**](http://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/)  
 * Find Minimum or max Depth of a Binary Tree [**Min**](http://www.geeksforgeeks.org/find-minimum-depth-of-a-binary-tree/) [**Max**](http://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/) 
+* Check whether a binary tree is a full binary tree or not [**Explanation**](http://www.geeksforgeeks.org/check-whether-binary-tree-full-binary-tree-not/)
+* Check whether a given Binary Tree is Complete or not [**Explanation**](http://www.geeksforgeeks.org/check-whether-binary-tree-complete-not-set-2-recursive-solution/)
 * Maximum Path Sum in a Binary Tree 
   * In given BT [**Explanation**](http://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
   * From leaf to root [**Explanation**](http://algorithms.tutorialhorizon.com/given-a-binary-tree-find-out-the-maximum-sum-of-value-from-root-to-each-leaf/)
   * Between 2 leaves [**Explanation**](http://algorithms.tutorialhorizon.com/given-a-binary-tree-find-the-maximum-path-sum-between-any-two-leaves/)
-* Check if a given array can represent Preorder Traversal of Binary Search Tree
-* Check whether a binary tree is a full binary tree or not
-* Check whether a given Binary Tree is Complete or not
+* Print all the paths from root, with a specified sum in Binary tree [**Explanation**](http://www.geeksforgeeks.org/print-paths-root-specified-sum-binary-tree/)
+* Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals   the given sum. [**Explanation**](http://www.programcreek.com/2013/01/leetcode-path-sum/)
+* Print all k-sum paths in a binary tree
 * Remove nodes on root to leaf paths of length < K
 * Reverse alternate levels of a perfect binary tree
 * zig-zag traversal of binary tree
