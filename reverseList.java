@@ -24,3 +24,23 @@ public Node reverse(Node head)
 	head = q;
 	return head;
 }
+
+// Recursive method
+
+public Node Reverse(Node node)
+{
+    if (node == null || node.next == null) return node; 
+
+    Node secondElem = node.next;
+
+    // bug fix - need to unlink node from the rest or you will get a cycle
+    node.next = null;
+
+    // then we reverse everything from the second element on
+    Node reverseRest = Reverse(secondElem);
+
+    // then we join the two lists
+    secondElem.Next = node;
+
+    return reverseRest;
+}
