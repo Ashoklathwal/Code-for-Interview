@@ -31,7 +31,8 @@ class LinkedList
 		if (slow == fast) 
 		{
 			slow = node;
-			while (slow != fast.next) {
+			// odd or even
+			while (slow != fast.next && slow.next != fast.next) {
 				slow = slow.next;
 				fast = fast.next;
 			}
