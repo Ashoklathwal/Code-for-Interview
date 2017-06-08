@@ -35,7 +35,7 @@ class maxRecHistArea
 	}
 	public static void main(String[] arg)
 	{
-		int hist[] =  {6, 2, 5, 4, 5, 1, 6};
+		int hist[] =  {6, 2, 5, 4, 5, 1, 6}; // {1,2,3,4,5}
 		System.out.println("Largest rectangular area under histogram : "+larRecArea(hist));
 	}
 }
