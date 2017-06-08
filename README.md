@@ -81,6 +81,7 @@
 
 ### String
 
+* Find The First Non Repeated Character In A String 
 * Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 * Print all permutations in sorted (lexicographic) order [**Solution**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/strPermute.java) [**Explanation**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/String_permutation.pdf)
 * Reverse words in a given string [**Solution**](More%20Codes/reverseWordsInString.java)
