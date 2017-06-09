@@ -197,14 +197,13 @@
 * Subset Sum Problem [**Solution**](More%20Codes/subsetSumPath.java) [**Explanation**](https://www.youtube.com/watch?v=s6FhG--P7z0)
 * 'Partition problem' is to determine whether a given set can be partitioned into two subsets such that the sum of elements in both         subsets is same.[**Solution**](More%20Codes/partitionProblem.java)
 * Partition a set into two subsets such that the difference of subset sums is minimum
-* [NOT DP] Subset sum queries using bitset
 * Subset with sum divisible by k
 * Subset with no pair sum divisible by K
 * Maximum Length Bitonic Subarray
 * Optimal Binary Search Tree
-* Coin Changing Minimum Number of Coins
-* Coin Changing Minimum Coins 
-* Coin Change Top down dynamic programming
+* Coin Changing problem
+  * Number of ways to get a total sum [**Solution**](More%20Codes/noOfWaysCoinChange.java) [**Explanation**](https://www.youtube.com/watch?v=_fgjrs570YE)
+  * Minimum number of coins to get a total sum [**Explanation**](https://www.youtube.com/watch?annotation_id=annotation_2195265949&feature=iv&src_vid=Y0ZqKpToTic&v=NJuKJ8sasGk)
 * Minimum Edit Distance 
 * Weighted Job Scheduling 
 * Cutting Rod dynamic programming
