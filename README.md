@@ -194,10 +194,12 @@
 * Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
 * 0/1 Knapsack Problem [**Solution**](More%20Codes/01knapsack.java) [**Exp_1**](More%20Codes/knapsack.pdf)  [**Exp_2**](https://www.youtube.com/watch?v=8LusJS5-AGo)
 * Matrix Chain Multiplication [**Solution**](More%20Codes/matrixChainMultiplication.java) [**Explanation-1**](More%20Codes/mcm.pdf) [**Explanation-2**](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)
-* Subset Sum Problem 
-* 'Partition problem' is to determine whether a given set can be partitioned into two subsets such that the sum of elements in both         subsets is same.
+* Subset Sum Problem [**Solution**](More%20Codes/subsetSumPath.java) [**Explanation**](https://www.youtube.com/watch?v=s6FhG--P7z0)
+* 'Partition problem' is to determine whether a given set can be partitioned into two subsets such that the sum of elements in both         subsets is same.[**Solution**](More%20Codes/partitionProblem.java)
+* Partition a set into two subsets such that the difference of subset sums is minimum
 * [NOT DP] Subset sum queries using bitset
-* Subset with sum divisible by m
+* Subset with sum divisible by k
+* Subset with no pair sum divisible by K
 * Maximum Length Bitonic Subarray
 * Optimal Binary Search Tree
 * Coin Changing Minimum Number of Coins
