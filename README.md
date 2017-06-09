@@ -244,8 +244,10 @@
 
 ### Matrix 
  
-* Search in a row wise and column wise sorted matrix
-* Print a given matrix in spiral form
+* Search in a row wise and column wise sorted matrix [**Explanation**](http://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)
+* Kth smallest element in a row-wise and column-wise sorted 2D array [**Explanation**](http://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/)
+* Print a given matrix in spiral form [**Solution**](More%20Codes/spiralForm.java) [**Explanation**](https://www.youtube.com/watch?v=siKFOI8PNKM&feature=player_embedded)
+* Print K’th element in spiral form of matrix
 * Find the number of islands
 * Maximum size square sub-matrix with all 1s
 * Maximum size rectangle binary sub-matrix with all 1s
