@@ -129,8 +129,17 @@
 
 ### Arrays
 
-* Given an array A[] and a number x, check for pair in A[] with sum as x
+* Given an array A[] and a number x, check for pair in A[] with sum as x [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/)
+* Count pairs with given sum [**Explanation**](http://www.geeksforgeeks.org/count-pairs-with-given-sum/)
+* Count all distinct pairs with difference equal to k [**Explanation**](http://www.geeksforgeeks.org/count-pairs-difference-equal-k/)
+* Count pairs in a sorted array whose sum is less than x [**Explanation**](http://www.geeksforgeeks.org/count-pairs-array-whose-sum-less-x/)
+* Given a sorted array and a number x, find the pair in array whose sum is closest to x [**Explanation**](http://www.geeksforgeeks.org/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x/)
+* Given two unsorted arrays, find all pairs whose sum is x [**Explanation**](http://www.geeksforgeeks.org/given-two-unsorted-arrays-find-pairs-whose-sum-x/)
+* Find a triplet that sum to a given value [**Explanation**](http://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
+* Find subarray with given sum
 * Find the Missing Number
+* Convert an array to reduced form
+* A Product Array Puzzle
 * Given an array where every element occurs 'N' times, except one element which occurs only once. 
    Find the element that occurs once [**Solution**](More%20Codes/occur_N_timeExceptOne.java)
 * Search an element in a sorted and rotated array
@@ -139,17 +148,13 @@
 * Sort elements by frequency
 * Count frequencies of all elements in array in O(1) extra space and O(n) time
 * Maximum difference between two elements such that larger element appears after the smaller number
-* A Product Array Puzzle
-* Find subarray with given sum
-* Find a triplet that sum to a given value
-* Count triplets with sum smaller than a given value  
 * Sort an array of 0s, 1s and 2s
 * Check for Majority Element
 * Given an array of of size n and a number k, find all elements that appear more than n/k times
 * Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
 * Median of two sorted arrays
 * k^th largest/smallest element in an array
-* * k largest/smallest elements in an array
+* k largest/smallest elements in an array
 * Segregate Even and Odd numbers
 * Find the two repeating elements in a given array
 * Given an array arr[], find the maximum j – i such that arr[j] > arr[i]
