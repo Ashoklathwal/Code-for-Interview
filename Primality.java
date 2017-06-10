@@ -1,3 +1,20 @@
+/*
+  generate all prime numbers or within range
+static int[] primeGen(int q)
+         {
+           int[] arr = new int[q];
+           BigInteger bi = BigInteger.valueOf(1);
+        for(int i=0; i<q; i++)
+        {
+            bi = bi.nextProbablePrime();
+            arr[i] = bi.intValue();
+        }
+      //   System.out.println(Arrays.toString(arr));
+                return arr;
+         }
+*/
+
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
