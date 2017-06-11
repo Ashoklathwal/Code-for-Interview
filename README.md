@@ -136,9 +136,15 @@
 * Given a sorted array and a number x, find the pair in array whose sum is closest to x [**Explanation**](http://www.geeksforgeeks.org/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x/)
 * Given two unsorted arrays, find all pairs whose sum is x [**Explanation**](http://www.geeksforgeeks.org/given-two-unsorted-arrays-find-pairs-whose-sum-x/)
 * Find a triplet that sum to a given value [**Explanation**](http://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
-* Find subarray with given sum
-* Find the Missing Number
-* Convert an array to reduced form
+* Find subarray with given sum [**Solution**](More%20Codes/subarraySum.java) [**Explanation**](http://www.geeksforgeeks.org/find-subarray-with-given-sum/)
+* Maximum Sum Subsequence Non-Adjacent [**Solution**](More%20Codes/maxSumSubsequenceNonAdjacent.java)
+* Largest sum subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxSumSubarray.java)
+* Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
+* Find the Missing Number [**Explanation**](http://www.geeksforgeeks.org/find-the-missing-number/)
+* Find the repeating and the missing [**Explanation**](http://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
+* Find the smallest positive number missing from an unsorted array [**Explanation**](http://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
+* Find the smallest missing number from sorted array [**Explanation**](http://www.geeksforgeeks.org/find-the-first-missing-number/)
+* Convert an array to reduced form [**Solution**](More%20Codes/reducesArray.java) [**Explanation**](http://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/)
 * A Product Array Puzzle
 * Given an array where every element occurs 'N' times, except one element which occurs only once. 
    Find the element that occurs once [**Solution**](More%20Codes/occur_N_timeExceptOne.java)
@@ -166,7 +172,6 @@
 * Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
 * Find duplicates in O(n) time and O(1) extra space
 * Equilibrium index of an array
-* Find the smallest missing number
 * Find whether an array is subset of another array 
 * Find the minimum distance between two numbers
 * Find the closest pair from two arrays
@@ -194,9 +199,6 @@
   1) Time Complexity : O(n^2) NOT DP [**Solution**](More%20Codes/longestPalindromicSubString1.java) 
   2) Time Complexity : O(n) using Manacher’s Algorithm [**Solution**](More%20Codes/longestPalindromicSubString2.java) [**Exp_1**](More%20Codes/stingPalindrome.pdf) [**Exp_2**](https://www.youtube.com/watch?v=V-sEwsca1ak)
 * Longest Bitonic Subsequence [**Solution**](More%20Codes/longestBiotonicSubsequence.java)
-* Maximum Sum Subsequence Non-Adjacent [**Solution**](More%20Codes/maxSumSubsequenceNonAdjacent.java)
-* Largest sum subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxSumSubarray.java)
-* Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
 * 0/1 Knapsack Problem [**Solution**](More%20Codes/01knapsack.java) [**Exp_1**](More%20Codes/knapsack.pdf)  [**Exp_2**](https://www.youtube.com/watch?v=8LusJS5-AGo)
 * Matrix Chain Multiplication [**Solution**](More%20Codes/matrixChainMultiplication.java) [**Explanation-1**](More%20Codes/mcm.pdf) [**Explanation-2**](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)
 * Subset Sum Problem [**Solution**](More%20Codes/subsetSumPath.java) [**Explanation**](https://www.youtube.com/watch?v=s6FhG--P7z0)
