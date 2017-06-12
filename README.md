@@ -145,11 +145,13 @@
 * Find the smallest positive number missing from an unsorted array [**Explanation**](http://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
 * Find the smallest missing number from sorted array [**Explanation**](http://www.geeksforgeeks.org/find-the-first-missing-number/)
 * Convert an array to reduced form [**Solution**](More%20Codes/reducesArray.java) [**Explanation**](http://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/)
-* A Product Array Puzzle
+* A Product Array Puzzle : Construct an array from PRODUCT of all elements of array except element at same index [**Explanation**](http://www.geeksforgeeks.org/a-product-array-puzzle/)
+* Construct an array from XOR of all elements of array except element at same index [**Explanation**](http://www.geeksforgeeks.org/construct-an-array-from-xor-of-all-elements-of-array-except-element-at-same-index/)
 * Given an array where every element occurs 'N' times, except one element which occurs only once. 
    Find the element that occurs once [**Solution**](More%20Codes/occur_N_timeExceptOne.java)
-* Search an element in a sorted and rotated array
-* Program for array rotation
+* Search an element in a sorted and rotated array  [**Explanation**](http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
+* Find the minimum element in a sorted and rotated array [**Explanation**](http://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
+* Program for array rotation [**Explanation**](http://www.geeksforgeeks.org/?p=2838)
 * Tic Tac Win: Design an algorithm to figure out if someone has won a game of tic-tac-toe
 * Sort elements by frequency
 * Count frequencies of all elements in array in O(1) extra space and O(n) time
