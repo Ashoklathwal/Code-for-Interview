@@ -299,7 +299,7 @@
   * Print Left view of BT
   * Print Right view of BT
   * Print Vertical order path of BT
-  * Print top view of Binary tree 
+  * Print top view of Binary tree [**Without HashMap**](http://www.waytocrack.com/forum/343/top-view-of-binary-tree-without-hash-map-or-with-linked-list)
   * Print bottom view of Binary tree 
 * Create mirror image of BT [**Explanation**](http://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/)
 * check 2 tree are morror of each other or not [**Explanation**](http://www.geeksforgeeks.org/check-if-two-trees-are-mirror/) 
@@ -315,7 +315,10 @@
   * from root, with a specified sum in Binary tree
   * from root to leaf node with a specified sum in Binary tree
   * all k-sum paths in a binary tree
-* Given a binary tree, print out all of its root-to-leaf paths one per line.  
+* Given a binary tree, print out all of its root-to-leaf paths one per line. [**with recursion**](http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/) [**Without recursion**](http://www.geeksforgeeks.org/print-root-leaf-path-without-using-recursion/) 
+* Merge two BSTs with limited extra space [**Solution**](More%20Codes/merge2BST.java) [**Exp1**](http://www.geeksforgeeks.org/?p=18611) [**Exp2**](http://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/)
+* Sorted Array to Balanced BST
+* Sorted LinkedList to Balanced BST
 * Remove nodes on root to leaf paths of length < K
 * Reverse alternate levels of a perfect binary tree
 * zig-zag traversal of binary tree
@@ -327,7 +330,6 @@
 * Construct Binary Tree from given Parent Array representation
 * Find the largest BST subtree in a given Binary Tree 
 * Add all greater values to every node in a given BST
-* Merge two BSTs with limited extra space
 * Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
 * K’th Largest Element in BST when modification to BST is not allowed
 * Second largest element in BST
