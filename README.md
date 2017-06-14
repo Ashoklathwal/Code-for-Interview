@@ -358,16 +358,13 @@
 
 ### Graphs
 
-* Algorithms on Graphs. Comprises of the following algorithms:
-   * BFS [**Explanation**](http://algorithms.tutorialhorizon.com/breadth-first-searchtraversal-in-a-graph/)
+* [**Algorithms on Graphs.**](More%20Codes/Graph.java) Comprises of the following algorithms:
+   * BFS 
    * DFS
-   * Kruskal (MST)
-   * Prim (MST)
-   * Modified Dijkstra (SSSP)
-   * Bellman-Ford (SSSP)
-   * Floyd-Warshall (APSP)
+   * Topological ordering [**Explanation**](http://www.geeksforgeeks.org/topological-sorting/)
+   * All topological ordering [**Explanation**](http://www.geeksforgeeks.org/all-topological-sorts-of-a-directed-acyclic-graph/)
+   * Shortest path using BFS [**Explanation**](More%20Codes/BFS_part2.pdf)
 * To detect cycle in a Graph **Union Find**
-* Topological Sort
 * Boggle (Find all possible words in a board of characters)
 * Bridges in a Graph
 
