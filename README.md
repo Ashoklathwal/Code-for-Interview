@@ -257,9 +257,11 @@
 * Kth smallest element in a row-wise and column-wise sorted 2D array [**Explanation**](http://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/)
 * Print a given matrix in spiral form [**Solution**](More%20Codes/spiralForm.java) [**Explanation**](https://www.youtube.com/watch?v=siKFOI8PNKM&feature=player_embedded)
 * Print K’th element in spiral form of matrix
-* Find the number of islands
-* Maximum size square sub-matrix with all 1s
-* Maximum size rectangle binary sub-matrix with all 1s
+* Find the number of islands [**Solution**](More%20Codes/numberOfIsland.java) [**Explanation**]()
+* Find largest island [**Solution**](More%20Codes/largestIsland.java)
+* Maximum size square binary sub-matrix with all 1s [**Solution**](More%20Codes/maxSubSquarewithall1s.java) [**Explanation**](https://www.youtube.com/watch?v=_Lf1looyJMU)
+* Finding the maximum square sub-matrix with all equal elements [**Solution**](More%20Codes/maxSubSquarewithEqualNumbers.java)
+* Maximum size rectangle binary sub-matrix with all 1s [**Solution**](More%20Codes/maxRectangularWithall1s.java) [**Explanation**](https://www.youtube.com/watch?v=g8bSdXCG-lA)
 * Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to O.
 * Implement Conway's game of life by predicting the next state of a matrix given its current state. 
 * Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the       image by 90 degrees. (an you do this in place? 
