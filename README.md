@@ -144,7 +144,7 @@
 * Find a triplet that sum to a given value [**Explanation**](http://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
 * Find subarray with given sum [**Solution**](More%20Codes/subarraySum.java) [**Explanation**](http://www.geeksforgeeks.org/find-subarray-with-given-sum/)
 * Maximum Sum Subsequence Non-Adjacent [**Solution**](More%20Codes/maxSumSubsequenceNonAdjacent.java)
-* Largest sum subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxSumSubarray.java)
+* Largest sum subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxSumSubarray.java) [**Explanation**](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 * Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
 * Find the Missing Number [**Explanation**](http://www.geeksforgeeks.org/find-the-missing-number/)
 * Find the repeating and the missing [**Explanation**](http://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
