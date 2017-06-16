@@ -15,6 +15,12 @@
 * [**Serialize and Deserialize a Binary Tree**](http://www.geeksforgeeks.org/serialize-deserialize-binary-tree/)
 * [**Minimum no. of iterations to pass information to all nodes in the tree**](http://www.geeksforgeeks.org/minimum-iterations-pass-information-nodes-tree/)
 
+### Hacking a Google Interview
+* [**Handout 1**](More%20Codes/Hacking_a_Google_Interview_Handout_1.pdf)
+* [**Handout 2**](More%20Codes/Hacking_a_Google_Interview_Handout_2.pdf)
+* [**Handout 3**](More%20Codes/Hacking_a_Google_Interview_Handout_3_2.pdf)
+* [**Common Questions Part 1**](More%20Codes/Hacking_a_Google_Interview_Practice_Questions_Person_A.pdf)
+* [**Common Questions Part 2**](More%20Codes/Hacking_a_Google_Interview_Practice_Questions_Person_B.pdf)
 
 ### Linked list :
 * How will you detect cycle and remove it from the linked list  [**Solution**](detectCycleLinkedList.java) [**Explanation**](http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/)
@@ -217,9 +223,6 @@
 * Weighted Job Scheduling 
 * Cutting Rod dynamic programming
 * Egg Dropping Dynamic Programming
-* Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D kadane
-* Maximum Size Rectangle of All 1's Dynamic Programming
-* Maximum Sub Square Matrix Dynamic Programming
 * Text Justification Dynamic Programming
 * Word Break Problem Dynamic Programming
 * Minimum Cost Path Dynamic Programming
@@ -239,10 +242,7 @@
 * Total Ways in Matrix Dynamic Programming
 * Maximum profit by buying and selling a share at most twice
 * Sum Query in 2D Immutable Array Dynamic Programming
-* Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming
-* find and print the number of different ways you can make change for  dollars if each coin is available in an infinite quantity.
-   [**Question**](coin-changeNumberOfWays.pdf) [**Solution**](noOfWaysCoinChange.java)
-* Suppose there are 5 types of coins: 50-cent, 25-cent, 10-cent, 5-cent, and 1-cent. Write a program to find the total number of           different ways of making changes for any amount of money in cents.[**Question**](coin-change.pdf)   
+* Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming   
 * Implement Fibonacci in bottom-up dynamic programming fashion.
 * Longest Mod path
 * Given a string, Find all distinct palindromic subsequence of a given string
@@ -262,13 +262,16 @@
 * Finding the maximum square sub-matrix with all equal elements [**Solution**](More%20Codes/maxSubSquarewithEqualNumbers.java)
 * Maximum size rectangle binary sub-matrix with all 1s [**Solution**](More%20Codes/maxRectangularWithall1s.java) [**Explanation**](https://www.youtube.com/watch?v=g8bSdXCG-lA)
 * Maximum Subsquare With Sides as X [**Solution**](More%20Codes/maxSubSquareSurroundedByX.java) [**Explanation**](https://www.youtube.com/watch?v=vi_1eHCsR9A)
-* Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to O.
+* Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 1, its entire row and column are set to 1. [**Explanation**](http://www.geeksforgeeks.org/a-boolean-matrix-question/)
+* Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the       image by 90 degrees. (an you do this in place?  [**Explanation**](http://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/)
+* Count Negative Numbers in a Column-Wise and Row-Wise Sorted Matrix [**Explanation**](http://www.geeksforgeeks.org/count-negative-numbers-in-a-column-wise-row-wise-sorted-matrix/)
+* Find the row with maximum number of 1s [**Explanation**](http://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/)
+* Given an n x n square matrix, find sum of all sub-squares of size k x k
+* Print maximum sum square sub-matrix of given N*N square size
+* Print maximum sum Rectangular sub-matrix of given size
 * Implement Conway's game of life by predicting the next state of a matrix given its current state. 
-* Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the       image by 90 degrees. (an you do this in place? 
 * Program for Rank of Matrix
-* Count Negative Numbers in a Column-Wise and Row-Wise Sorted Matrix
-* Print maximum sum square sub-matrix of given size
-* Find the row with maximum number of 1s
+
 
    
 ### Sorting and searching 
