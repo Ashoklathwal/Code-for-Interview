@@ -158,18 +158,17 @@
 * Search an element in a sorted and rotated array  [**Explanation**](http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
 * Find the minimum element in a sorted and rotated array [**Explanation**](http://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
 * Program for array rotation [**Explanation**](http://www.geeksforgeeks.org/?p=2838)
-* Tic Tac Win: Design an algorithm to figure out if someone has won a game of tic-tac-toe
-* Sort elements by frequency
-* Count frequencies of all elements in array in O(1) extra space and O(n) time
-* Maximum difference between two elements such that larger element appears after the smaller number
-* Sort an array of 0s, 1s and 2s
+* Sort elements by frequency [**Explanation1**](http://www.geeksforgeeks.org/sort-elements-by-frequency/) [**Explanation2**](http://www.techiedelight.com/sort-elements-by-their-frequency-and-index/)
+* Count frequencies of all elements in array in O(1) extra space and O(n) time [**Explanation**](http://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/)
+* Maximum difference between two elements such that larger element appears after the smaller number [**Explanation**](http://www.geeksforgeeks.org/maximum-difference-between-two-elements/)
+* Segregate Even and Odd numbers [**Explanation**](http://www.geeksforgeeks.org/segregate-even-and-odd-numbers/)
+* Sort an array of 0s, 1s and 2s [**Solution**](More%20Codes/sort012.pdf)
 * Check for Majority Element
 * Given an array of of size n and a number k, find all elements that appear more than n/k times
 * Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
 * Median of two sorted arrays
 * k^th largest/smallest element in an array
 * k largest/smallest elements in an array
-* Segregate Even and Odd numbers
 * Find the two repeating elements in a given array
 * Given an array arr[], find the maximum j – i such that arr[j] > arr[i]
 * Sort an array in wave form
@@ -192,6 +191,7 @@
 * Convert array into Zig-Zag fashion
 * Count pairs with given sum
 * Minimize the maximum difference between the heights
+* Tic Tac Win: Design an algorithm to figure out if someone has won a game of tic-tac-toe
 
 ### Dynamic Programming
 
