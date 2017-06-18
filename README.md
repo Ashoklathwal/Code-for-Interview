@@ -222,13 +222,13 @@
 * Coin Changing problem
   * Number of ways to get a total sum [**Solution**](More%20Codes/noOfWaysCoinChange.java) [**Explanation**](https://www.youtube.com/watch?v=_fgjrs570YE)
   * Minimum number of coins to get a total sum [**Explanation**](https://www.youtube.com/watch?annotation_id=annotation_2195265949&feature=iv&src_vid=Y0ZqKpToTic&v=NJuKJ8sasGk)
-* Minimum Edit Distance 
+* Minimum Edit Distance [**Exp1**](http://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/)  [**Exp2**](https://www.youtube.com/watch?v=We3YDTzNXEk)
+* Minimum Cost Path Dynamic Programming [**Exp1**](http://www.geeksforgeeks.org/dynamic-programming-set-6-min-cost-path/)  [**Exp2**](https://www.youtube.com/watch?v=lBRtnuxg-gU)
 * Weighted Job Scheduling 
 * Cutting Rod dynamic programming
 * Egg Dropping Dynamic Programming
 * Text Justification Dynamic Programming
 * Word Break Problem Dynamic Programming
-* Minimum Cost Path Dynamic Programming
 * Box Stacking Dynamic Programming
 * Minimum jump to reach end
 * Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming
