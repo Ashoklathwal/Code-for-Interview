@@ -158,13 +158,16 @@
 * Search an element in a sorted and rotated array  [**Explanation**](http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
 * Find the minimum element in a sorted and rotated array [**Explanation**](http://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
 * Program for array rotation [**Explanation**](http://www.geeksforgeeks.org/?p=2838)
-* Sort elements by frequency [**Explanation1**](http://www.geeksforgeeks.org/sort-elements-by-frequency/) [**Explanation2**](http://www.techiedelight.com/sort-elements-by-their-frequency-and-index/)
-* Count frequencies of all elements in array in O(1) extra space and O(n) time [**Explanation**](http://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/)
+* Sort elements by frequency [**Explanation1**](http://www.geeksforgeeks.org/sort-elements-by-frequency/) [**Explanation2**](http://www.techiedelight.com/sort-elements-by-their-frequency-and-index/) 
+* Count frequencies of all elements in array in  O(n) time and O(1) extra space [**Explanation**](http://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/)
+* Rearrange an array so that arr[i] becomes arr[arr[i]] with O(n) time and O(1) extra space  [**Explanation**](http://www.geeksforgeeks.org/rearrange-given-array-place/)
+* Rearrange an array such that ‘arr[j]’ becomes ‘i’ if ‘arr[i]’ is ‘j’ with O(n) time and O(1) extra space [**Solution**](More%20Codes/reArrange.java) [**Explanation**](http://www.geeksforgeeks.org/rearrange-array-arrj-becomes-arri-j/)
 * Maximum difference between two elements such that larger element appears after the smaller number [**Explanation**](http://www.geeksforgeeks.org/maximum-difference-between-two-elements/)
 * Segregate Even and Odd numbers [**Explanation**](http://www.geeksforgeeks.org/segregate-even-and-odd-numbers/)
 * Sort an array of 0s, 1s and 2s [**Solution**](More%20Codes/sort012.pdf)
-* Check for Majority Element
-* Given an array of of size n and a number k, find all elements that appear more than n/k times
+* Check for Majority Element [**Explanation**](http://www.geeksforgeeks.org/majority-element/)
+* Given an array of of size n and a number k, find all elements that appear more than n/k times [**Solution**](More%20Codes/moreThanNdK.java) [**Explanation**](http://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
+* Given an array of 2n elements of which n elements are same and the remaining n elements are all different. Write program to find out the value which is present n times in the array   [**Solution**](More%20Codes/N_Same.java)
 * Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
 * Median of two sorted arrays
 * k^th largest/smallest element in an array
