@@ -269,9 +269,9 @@
 * Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4 bytes, write a method to rotate the       image by 90 degrees. (an you do this in place?  [**Explanation**](http://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/)
 * Count Negative Numbers in a Column-Wise and Row-Wise Sorted Matrix [**Explanation**](http://www.geeksforgeeks.org/count-negative-numbers-in-a-column-wise-row-wise-sorted-matrix/)
 * Find the row with maximum number of 1s [**Explanation**](http://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/)
+* Print maximum sum Rectangular sub-matrix from m*n matrix [**Solution**](More%20Codes/maxSumRectangularMatrix.java) [**Explanation**](https://www.youtube.com/watch?v=yCQN096CwWM&t=16s)
+* Print maximum sum sub-squares of size k x k [**Solution**](More%20Codes/maxSumk_kMatrix.java)  [**Explanation**](More%20Codes/abc.pdf) [**Exp2**](http://www.geeksforgeeks.org/print-maximum-sum-square-sub-matrix-of-given-size/)
 * Given an n x n square matrix, find sum of all sub-squares of size k x k
-* Print maximum sum square sub-matrix of given N*N square size
-* Print maximum sum Rectangular sub-matrix of given size
 * Implement Conway's game of life by predicting the next state of a matrix given its current state. 
 * Program for Rank of Matrix
 
