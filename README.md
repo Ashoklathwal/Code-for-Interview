@@ -103,6 +103,12 @@
 * String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  [**Solution**](More%20Codes/isRotation.java)
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
+* Rearrange characters in a string such that no two adjacent are same
+* Rearrange a string so that all same characters become d distance away
+* Find if an array of strings can be chained to form a circle
+* find second most frequent character
+* Count substrings with same first and last characters
+* Find the missing number in a string of numbers with no separator
 * Find all substring of a given String.
 * Find all palindromic substring of a given string.
 
@@ -129,9 +135,14 @@
   The method signature should look something like:
    drawLine(byte[] screen, int width, int xl, int x2, int y) 
 
-### [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
-* No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
-* Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
+### Advanced data Structure
+* Trie data structure 
+   * [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
+   * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
+   * Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
+* Find the k most frequent words from a file
+* Given a sequence of words, print all anagrams together
+* Print all valid words that are possible using Characters of Array
 
 ### Arrays
 
@@ -169,9 +180,14 @@
 * Given an array of of size n and a number k, find all elements that appear more than n/k times [**Solution**](More%20Codes/moreThanNdK.java) [**Explanation**](http://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
 * Given an array of 2n elements of which n elements are same and the remaining n elements are all different. Write program to find out the value which is present n times in the array   [**Solution**](More%20Codes/N_Same.java)
 * Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
+* Sort a nearly sorted (or K sorted) array [**Explanation**](http://www.geeksforgeeks.org/nearly-sorted-algorithm/)
+* k^th largest element in stream [**Solution**](More%20Codes/kthLargestInStream.java)  [**Explanation**](http://www.geeksforgeeks.org/kth-largest-element-in-a-stream/)
 * Median of two sorted arrays
 * k^th largest/smallest element in an array
-* k largest/smallest elements in an array
+* k largest/smallest elements in an array [**Explanation**](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
+* Sum of all elements between k1’th and k2’th smallest elements
+* Minimum sum of two numbers formed from digits of an array
+* Find smallest number with given number of digits and sum of digits
 * Find the two repeating elements in a given array
 * Given an array arr[], find the maximum j – i such that arr[j] > arr[i]
 * Sort an array in wave form
