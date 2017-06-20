@@ -16,6 +16,13 @@ class LinkedList
 	// Function that detects loop in the list
 	void detectAndRemoveLoop(Node node) 
 	{
+		if(node==null || node.next==null)
+			return;
+                if(node.next==node)
+		  {
+                      node.next=null;
+                      return;
+                  }
 		Node slow = node;
 		Node fast = node.next;
 		// Search for loop using slow and fast pointers
