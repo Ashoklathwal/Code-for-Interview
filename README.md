@@ -182,8 +182,8 @@
 * Find runnning median in a stream of integer. [**Question**](find-the-running-median.pdf) [**Solution**](RunningMideanInStream.java) [**Explanation**](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)
 * Sort a nearly sorted (or K sorted) array [**Explanation**](http://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 * k^th largest element in stream [**Solution**](More%20Codes/kthLargestInStream.java)  [**Explanation**](http://www.geeksforgeeks.org/kth-largest-element-in-a-stream/)
-* Median of two sorted arrays
-* k^th largest/smallest element in an array
+* Median of two sorted arrays [**Explanation**](http://www.geeksforgeeks.org/median-of-two-sorted-arrays/)
+* k^th largest/smallest element in an array [**Solution**](More%20Codes/orderStatisticsMedian.pdf) [**Explanation**](http://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
 * k largest/smallest elements in an array [**Explanation**](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
 * Sum of all elements between k1’th and k2’th smallest elements
 * Minimum sum of two numbers formed from digits of an array
