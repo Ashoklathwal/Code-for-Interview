@@ -45,6 +45,10 @@
 * Remove Dups: Write code to remove duplicates from an unsorted linked list. [**Explanation**](http://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)
 * Palindrome: Implement a function to check if a linked list is a palindrome. [**Explanation**](http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/)
 * Implement LRU Cache [**Solution**](More%20Codes/LRUCache.java)
+* Pairwise swap elements of a given linked list 
+* Swap nodes in a linked list without swapping data
+* Reverse alternate K nodes in a Singly Linked List
+* Swap alternate nodes in a Singly Linked List
 
 ### Stack
  
@@ -185,7 +189,7 @@
 * Median of two sorted arrays [**Explanation**](http://www.geeksforgeeks.org/median-of-two-sorted-arrays/)
 * k^th largest/smallest element in an array [**Solution**](More%20Codes/orderStatisticsMedian.pdf) [**Explanation**](http://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
 * k largest/smallest elements in an array [**Explanation**](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
-* Sum of all elements between k1’th and k2’th smallest elements
+* Sum of all elements between k1’th and k2’th smallest elements  [**Explanation**](http://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/)
 * Minimum sum of two numbers formed from digits of an array
 * Find smallest number with given number of digits and sum of digits
 * Find the two repeating elements in a given array
@@ -211,6 +215,11 @@
 * Count pairs with given sum
 * Minimize the maximum difference between the heights
 * Tic Tac Win: Design an algorithm to figure out if someone has won a game of tic-tac-toe
+
+### Mathematics
+
+* Program for nth Catalan Number and its application [**Explanation**](http://www.geeksforgeeks.org/program-nth-catalan-number/)
+* Given GCD G and LCM L, find number of possible pairs (a, b)  [**Explanation**](http://www.geeksforgeeks.org/given-gcd-g-lcm-l-find-number-possible-pairs-b/)
 
 ### Dynamic Programming
 
