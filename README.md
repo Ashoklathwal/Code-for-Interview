@@ -163,6 +163,7 @@
 * Largest product subarray with both +ve and -ve numbers [**Solution**](More%20Codes/maxProductSubarray.java)
 * Find the Missing Number [**Explanation**](http://www.geeksforgeeks.org/find-the-missing-number/)
 * Find the repeating and the missing [**Explanation**](http://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
+* Find the two repeating elements in a given array [**Explanation**](http://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)
 * Find the smallest positive number missing from an unsorted array [**Explanation**](http://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
 * Find the smallest missing number from sorted array [**Explanation**](http://www.geeksforgeeks.org/find-the-first-missing-number/)
 * Convert an array to reduced form [**Solution**](More%20Codes/reducesArray.java) [**Explanation**](http://www.geeksforgeeks.org/convert-an-array-to-reduced-form-set-1-simple-and-hashing/)
@@ -190,12 +191,10 @@
 * k^th largest/smallest element in an array [**Solution**](More%20Codes/orderStatisticsMedian.pdf) [**Explanation**](http://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
 * k largest/smallest elements in an array [**Explanation**](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
 * Sum of all elements between k1’th and k2’th smallest elements  [**Explanation**](http://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/)
-* Find the two repeating elements in a given array
-* Given an array arr[], find the maximum j – i such that arr[j] > arr[i]
-* Sort an array in wave form
-* Find a sorted subsequence of size 3 in linear time
-* Tug of War
-* Find a peak element
+* Given an array arr[], find the maximum j – i such that arr[j] > arr[i] [**Explanation**](http://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/)
+* Sort an array in wave form [**Explanation**](http://www.geeksforgeeks.org/sort-array-wave-form-2/)
+* Find a sorted subsequence of size 3 in linear time [**Explanation**](http://www.geeksforgeeks.org/sorted-subsequence-size-3-linear-time-using-constant-space/)
+* Find a peak element [**Explanation**](http://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
 * Merge k sorted arrays
 * Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
 * Find duplicates in O(n) time and O(1) extra space
