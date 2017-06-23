@@ -190,8 +190,6 @@
 * k^th largest/smallest element in an array [**Solution**](More%20Codes/orderStatisticsMedian.pdf) [**Explanation**](http://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
 * k largest/smallest elements in an array [**Explanation**](http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
 * Sum of all elements between k1’th and k2’th smallest elements  [**Explanation**](http://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/)
-* Minimum sum of two numbers formed from digits of an array
-* Find smallest number with given number of digits and sum of digits
 * Find the two repeating elements in a given array
 * Given an array arr[], find the maximum j – i such that arr[j] > arr[i]
 * Sort an array in wave form
@@ -220,6 +218,8 @@
 
 * Program for nth Catalan Number and its application [**Explanation**](http://www.geeksforgeeks.org/program-nth-catalan-number/)
 * Given GCD G and LCM L, find number of possible pairs (a, b)  [**Explanation**](http://www.geeksforgeeks.org/given-gcd-g-lcm-l-find-number-possible-pairs-b/)
+* Find smallest and largest number with given number of digits and sum of digits [**Exp1**](http://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/) [**Exp2**](http://www.geeksforgeeks.org/find-the-largest-number-with-given-number-of-digits-and-sum-of-digits/)
+* Find the smallest number whose digits multiply to a given number n [**Explanation**](http://www.geeksforgeeks.org/find-smallest-number-whose-digits-multiply-given-number-n/)
 
 ### Dynamic Programming
 
@@ -249,6 +249,7 @@
   * Minimum number of coins to get a total sum [**Explanation**](https://www.youtube.com/watch?annotation_id=annotation_2195265949&feature=iv&src_vid=Y0ZqKpToTic&v=NJuKJ8sasGk)
 * Minimum Edit Distance [**Exp1**](http://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/)  [**Exp2**](https://www.youtube.com/watch?v=We3YDTzNXEk)
 * Minimum Cost Path Dynamic Programming [**Exp1**](http://www.geeksforgeeks.org/dynamic-programming-set-6-min-cost-path/)  [**Exp2**](https://www.youtube.com/watch?v=lBRtnuxg-gU)
+* Count of n digit numbers whose sum of digits equals to given sum [**Explanation**](http://www.geeksforgeeks.org/count-of-n-digit-numbers-whose-sum-of-digits-equals-to-given-sum/)
 * Weighted Job Scheduling 
 * Cutting Rod dynamic programming
 * Egg Dropping Dynamic Programming
