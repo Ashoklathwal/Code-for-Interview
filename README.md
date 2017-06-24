@@ -14,6 +14,7 @@
 * [**Dynamic Programming 2**](http://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/)
 * [**Serialize and Deserialize a Binary Tree**](http://www.geeksforgeeks.org/serialize-deserialize-binary-tree/)
 * [**Minimum no. of iterations to pass information to all nodes in the tree**](http://www.geeksforgeeks.org/minimum-iterations-pass-information-nodes-tree/)
+* [**Why is Binary Search preferred over Ternary Search?**](http://www.geeksforgeeks.org/binary-search-preferred-ternary-search/)
 
 ### Hacking a Google Interview
 * [**Handout 1**](More%20Codes/Hacking_a_Google_Interview_Handout_1.pdf)
@@ -193,6 +194,8 @@
 * Sum of all elements between k1’th and k2’th smallest elements  [**Explanation**](http://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/)
 * Given an array arr[], find the maximum j – i such that arr[j] > arr[i] [**Explanation**](http://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/)
 * Sort an array in wave form [**Explanation**](http://www.geeksforgeeks.org/sort-array-wave-form-2/)
+* Convert array into Zig-Zag fashion [**Explanation**](http://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/)
+     Ans: Using above approch just change opertor in if loop
 * Find a sorted subsequence of size 3 in linear time [**Explanation**](http://www.geeksforgeeks.org/sorted-subsequence-size-3-linear-time-using-constant-space/)
 * Find a peak element [**Explanation**](http://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
 * Merge k sorted arrays
@@ -350,8 +353,10 @@
   * all k-sum paths in a binary tree
 * Given a binary tree, print out all of its root-to-leaf paths one per line. [**with recursion**](http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/) [**Without recursion**](http://www.geeksforgeeks.org/print-root-leaf-path-without-using-recursion/) 
 * Merge two BSTs with limited extra space [**Solution**](More%20Codes/merge2BST.java) [**Exp1**](http://www.geeksforgeeks.org/?p=18611) [**Exp2**](http://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/)
-* Sorted Array to Balanced BST
-* Sorted LinkedList to Balanced BST
+* Sorted LinkedList to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/?p=17063)
+* conversion of Sorted DLL to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
+* Sorted Array to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
+* Binary Tree to Doubly linked list [**Explanation**](http://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/)
 * Remove nodes on root to leaf paths of length < K
 * Reverse alternate levels of a perfect binary tree
 * zig-zag traversal of binary tree
@@ -364,8 +369,6 @@
 * Find the largest BST subtree in a given Binary Tree 
 * Add all greater values to every node in a given BST
 * Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
-* K’th Largest Element in BST when modification to BST is not allowed
-* Second largest element in BST
 * How to handle duplicates in Binary Search Tree?
 * Count BST nodes that lie in a given range
 * Double Tree
