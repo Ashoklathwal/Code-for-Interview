@@ -205,6 +205,8 @@
 * Find whether an array is subset of another array 
 * Find the minimum distance between two numbers
 * Find the closest pair from two arrays
+* Minimum number of swaps required to sort an array
+* Minimum swaps to make two arrays identical
 * Check if a given array contains duplicate elements within k distance from each other
 * Online algorithm for checking palindrome in a stream
 * Pythagorean Triplet in an array
