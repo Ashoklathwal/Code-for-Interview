@@ -1,3 +1,25 @@
+/*
+/*
+Given an array of unique characters arr and a string str, Implement a function getShortestUniqueSubstring 
+that finds the smallest substring of str containing all the characters in arr. Return "" (empty string) 
+if such a substring doesn’t exist.
+
+Come up with an asymptotically optimal solution and analyze the time and space complexities.
+Example:
+
+input:  arr = ['x','y','z'], str = "xyyzyzyx"
+
+output: "zyx"
+
+Time Complexity: we’re doing a linear iteration of both str and arr of lengths N and M respectively, 
+                so the runtime complexity is linear in the size of the input, i.e. O(N+M).
+
+Space Complexity: we’re using a Map/Hash Table countMap with M key/values pairs plus few 
+                  constant size counters, which together give us an O(M) space complexity (linear in the size of arr).
+*/
+
+*/
+
 import java.util.HashMap;
 class smallestSubStringOfAllChar
 {
