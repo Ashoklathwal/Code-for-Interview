@@ -108,7 +108,8 @@
 * String Rotation: Assume you have a method isSubst ring which checks if one word is a substring of another. Given two strings, 51 and     52, write code to check if 52 is a rotation of 51 using only one call to isSubstring (e.g., "waterbottle" is a rotation                 of"erbottlewat").  [**Solution**](More%20Codes/isRotation.java)
 * Given a number, return all possible strings that the number could represent if `2 -> {A, B, C}, 4 -> {D, E, F}`, and so on. (OR) return-all-possible-strings-that-the-phone-number-could-represent [**Solution**](AllPossibleStrings.java) [**Explanation**](http://www.geeksforgeeks.org/find-possible-words-phone-digits/)
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
-* Rearrange characters in a string such that no two adjacent are same
+* Rearrange characters in a string such that no two adjacent are same [**Solution**](More%20Codes/ResarrangeString.java) [**Explanation**](http://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/)
+* Smallest substring of str containing all the characters in arr  [**Solution**](More%20Codes/smallestSubStringOfAllChar.java) [**Explanation**](https://www.pramp.com/question/wqNo9joKG6IJm67B6z34)
 * Rearrange a string so that all same characters become d distance away
 * Find if an array of strings can be chained to form a circle
 * find second most frequent character
@@ -360,6 +361,7 @@
 * Sorted Array to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
 * Binary Tree to Doubly linked list [**Explanation**](http://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/)
 * Remove nodes on root to leaf paths of length < K
+* Tournament Tree (Winner Tree) and Binary Heap
 * Reverse alternate levels of a perfect binary tree
 * zig-zag traversal of binary tree
 * Connect nodes at same level
