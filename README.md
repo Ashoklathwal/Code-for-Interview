@@ -39,6 +39,7 @@
 * Find middle element of linked list and delete it [**Solution**](deleteMiddleLinkedList.java)
 * Segregate even and odd nodes in a Linked List [**Solution**](evenOddSegregate.java) [**Explanation**](http://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)
 * Flattening a Linked List [**Solution**](flattenList.java) 
+* Merge K sorted linked lists [**Explanation1**](http://www.lifeincode.net/programming/leetcode-merge-k-sorted-lists-java/) [**Explanation2**](http://www.geeksforgeeks.org/merge-k-sorted-linked-lists/)
 * Sort a linked list of 0s, 1s and 2s [**Solution**](sort_0_1_2_list.java)
 * Split a Circular Linked List into two halves [**Explanation**](http://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/)
 * Sorted insert for circular linked list [**Explanation**](http://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/)
@@ -46,6 +47,7 @@
 * Remove Dups: Write code to remove duplicates from an unsorted linked list. [**Explanation**](http://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)
 * Palindrome: Implement a function to check if a linked list is a palindrome. [**Explanation**](http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/)
 * Implement LRU Cache [**Solution**](More%20Codes/LRUCache.java)
+* Decimal Equivalent of Binary Linked List 
 * Pairwise swap elements of a given linked list 
 * Swap nodes in a linked list without swapping data
 * Reverse alternate K nodes in a Singly Linked List
@@ -157,7 +159,7 @@
 * Count all distinct pairs with difference equal to k [**Explanation**](http://www.geeksforgeeks.org/count-pairs-difference-equal-k/)
 * Count pairs in a sorted array whose sum is less than x [**Explanation**](http://www.geeksforgeeks.org/count-pairs-array-whose-sum-less-x/)
 * Given a sorted array and a number x, find the pair in array whose sum is closest to x [**Explanation**](http://www.geeksforgeeks.org/given-sorted-array-number-x-find-pair-array-whose-sum-closest-x/)
-* Given two unsorted arrays, find all pairs whose sum is x [**Explanation**](http://www.geeksforgeeks.org/given-two-unsorted-arrays-find-pairs-whose-sum-x/)
+* Given two unsorted arrays, find all pairs whose sum is x [**Explanation**](http://www.geeksforgeeks.org/given-two-unsorted-arrays-find-pairs-whose-sum-x/) for two sorted arrays   [**Explanation**](http://www.geeksforgeeks.org/count-pairs-two-sorted-arrays-whose-sum-equal-given-value-x/)
 * Find a triplet that sum to a given value [**Explanation**](http://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/)
 * Find subarray with given sum [**Solution**](More%20Codes/subarraySum.java) [**Explanation**](http://www.geeksforgeeks.org/find-subarray-with-given-sum/)
 * Maximum Sum Subsequence Non-Adjacent [**Solution**](More%20Codes/maxSumSubsequenceNonAdjacent.java)
@@ -199,10 +201,14 @@
      Ans: Using above approch just change opertor in if loop
 * Find a sorted subsequence of size 3 in linear time [**Explanation**](http://www.geeksforgeeks.org/sorted-subsequence-size-3-linear-time-using-constant-space/)
 * Find a peak element [**Explanation**](http://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
-* Merge k sorted arrays
+* Search an element in an unsorted array using minimum number of comparisons [**Explanation**](http://www.geeksforgeeks.org/search-element-unsorted-array-using-minimum-number-comparisons/)
+* Merge k sorted arrays [**Solution**](More%20Codes/MergeKSortedArrays.java) [**Explanation**](http://www.geeksforgeeks.org/merge-k-sorted-arrays/)
+* Sort numbers stored on different machines 
+* Connect n ropes with minimum cost
 * Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
 * Find duplicates in O(n) time and O(1) extra space
 * Equilibrium index of an array
+* Design an efficient data structure for given operations
 * Find whether an array is subset of another array 
 * Find the minimum distance between two numbers
 * Find the closest pair from two arrays
