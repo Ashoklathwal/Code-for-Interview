@@ -1,6 +1,6 @@
 //Merge a linked list into another linked list at alternate positions
 
-public void alterMerge(Node A, Node B) 
+public Node alterMerge(Node A, Node B) 
 {
 		Node temp = A;// it will be needed to get the head of the new list
 	       // for saving the next pointer
@@ -11,10 +11,16 @@ public void alterMerge(Node A, Node B)
 			a_next = A.next;
 		        b_next = B.next;
 			
-			A.next = b_next;
-			b_next.next = a_next;
+			A.next = B;
+			B.next = a_next;
 			
 			A = a_next;
 			B = b_next;
 		}
+	        print(temp); // followed by 
+	       if(B != null)
+	       {
+		     print(B);  
+	       }
+	
 }
