@@ -39,6 +39,7 @@
 * Find middle element of linked list and delete it [**Solution**](deleteMiddleLinkedList.java)
 * Segregate even and odd nodes in a Linked List [**Solution**](evenOddSegregate.java) [**Explanation**](http://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)
 * Flattening a Linked List [**Solution**](flattenList.java) 
+* Sort numbers stored on different machines [**Explanation**](http://www.geeksforgeeks.org/sort-numbers-stored-on-different-machines/)
 * Merge K sorted linked lists [**Explanation1**](http://www.lifeincode.net/programming/leetcode-merge-k-sorted-lists-java/) [**Explanation2**](http://www.geeksforgeeks.org/merge-k-sorted-linked-lists/)
 * Sort a linked list of 0s, 1s and 2s [**Solution**](sort_0_1_2_list.java)
 * Split a Circular Linked List into two halves [**Explanation**](http://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/)
@@ -179,7 +180,8 @@
 * Find the minimum element in a sorted and rotated array [**Explanation**](http://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
 * Program for array rotation [**Explanation**](http://www.geeksforgeeks.org/?p=2838)
 * Sort elements by frequency [**Explanation1**](http://www.geeksforgeeks.org/sort-elements-by-frequency/) [**Explanation2**](http://www.techiedelight.com/sort-elements-by-their-frequency-and-index/) 
-* Count frequencies of all elements in array in  O(n) time and O(1) extra space [**Explanation**](http://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/)
+* Count frequencies of all elements in array in  O(n) time and O(1) extra space [**Explanation**](http://www.geeksforgeeks.org/count-frequencies-elements-array-o1-extra-space-time/) 
+* Duplicates in an array in O(n) and by using O(1) extra space  [**Explanation**](http://www.geeksforgeeks.org/duplicates-array-using-o1-extra-space-set-2/)
 * Rearrange an array so that arr[i] becomes arr[arr[i]] with O(n) time and O(1) extra space  [**Explanation**](http://www.geeksforgeeks.org/rearrange-given-array-place/)
 * Rearrange an array such that ‘arr[j]’ becomes ‘i’ if ‘arr[i]’ is ‘j’ with O(n) time and O(1) extra space [**Solution**](More%20Codes/reArrange.java) [**Explanation**](http://www.geeksforgeeks.org/rearrange-array-arrj-becomes-arri-j/)
 * Maximum difference between two elements such that larger element appears after the smaller number [**Explanation**](http://www.geeksforgeeks.org/maximum-difference-between-two-elements/)
@@ -203,11 +205,10 @@
 * Find a peak element [**Explanation**](http://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
 * Search an element in an unsorted array using minimum number of comparisons [**Explanation**](http://www.geeksforgeeks.org/search-element-unsorted-array-using-minimum-number-comparisons/)
 * Merge k sorted arrays [**Solution**](More%20Codes/MergeKSortedArrays.java) [**Explanation**](http://www.geeksforgeeks.org/merge-k-sorted-arrays/)
-* Sort numbers stored on different machines 
-* Connect n ropes with minimum cost
-* Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
-* Find duplicates in O(n) time and O(1) extra space
-* Equilibrium index of an array
+* Connect n ropes with minimum cost [**Explanation**](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
+* Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted [**Explanation**](http://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
+* Equilibrium index of an array [**Explanation**](http://www.geeksforgeeks.org/equilibrium-index-of-an-array/)
+* Question on prime numbers
 * Design an efficient data structure for given operations
 * Find whether an array is subset of another array 
 * Find the minimum distance between two numbers
