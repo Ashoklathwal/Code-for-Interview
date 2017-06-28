@@ -19,7 +19,7 @@ public Node reverse(Node head)
 		q = r;
 		r = r.next; // pointing to next node
 		q.next = p; // make pointer to previous node
-		//q.prev = r; // This line will be added in case of doubly linked list
+		//q.prev = q; // This line will be added in case of doubly linked list
 	}
 	head = q;
 	return head;
