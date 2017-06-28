@@ -32,7 +32,7 @@
 * Write a function to reverse a singly linked list and doubly linked list[**Solution**](reverseList.java)
 * Reverse A List In Groups Of Given Size [**Solution**](reverseListInGroup.java)
 * Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists [**Explanation**](http://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/)
-* Merge Sort For Linked Lists [**Explanation**](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+* Merge Sort For Linked Lists [**Solution**](More%20Codes/mergeSortLinkedList.java) [**Explanation**](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
 * Union And Intersection Of 2 Linked Lists [**Explanation**](http://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
 * Write a function to get the intersection point of two Linked Lists [**Explanation**](http://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
 * Select A Random Node from A Singly Linked List [**Explanation**](http://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/)
