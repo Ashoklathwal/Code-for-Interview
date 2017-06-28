@@ -1,27 +1,20 @@
 //Merge a linked list into another linked list at alternate positions
 
-list1.merge(list2);
-
-void merge(LinkedList q)
+public void alterMerge(Node A, Node B) 
 {
-	Node p_curr = head, q_curr = q.head; // poitning to first node to both list
-	Node p_next, q_next; // for saving next pointer
-	while(p_curr != null && q_curr != null)
-	{
-		// save next pointer
-		p_next = p_curr.next;
-		q_next = q_curr.next;
-
-		// make q_curr as next of p_curr
-		// order matters
-		q_curr.next = p_curr.next; //  change next pointer of q_curr
-		p_curr.next = q_curr;  // change next pointer of p_curr
-
-		// update current position for next iteration
-		p_curr = p_next;
-		q_curr = q_next
-
-	}
-	q.head = q_curr;
-
+		Node temp = A;// it will be needed to get the head of the new list
+	       // for saving the next pointer
+	        Node a_next;
+	        Node b_next;
+		while (A != null && B != null) 
+		{
+			a_next = A.next;
+		        b_next = B.next;
+			
+			A.next = b_next;
+			b_next.next = a_next;
+			
+			A = a_next;
+			B = b_next;
+		}
 }
