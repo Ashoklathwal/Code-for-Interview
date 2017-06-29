@@ -208,7 +208,13 @@
 * Connect n ropes with minimum cost [**Explanation**](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 * Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted [**Explanation**](http://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
 * Equilibrium index of an array [**Explanation**](http://www.geeksforgeeks.org/equilibrium-index-of-an-array/)
-* Question on prime numbers
+* Primality
+   * Primality Test
+   * Sieve of Eratosthenes
+   * Find two prime numbers with given sum
+   * Efficient program to print all prime factors of a given number
+   * Least prime factor of numbers till n
+   * Prime Factorization using Sieve O(log n) for multiple queries
 * Design an efficient data structure for given operations
 * Find whether an array is subset of another array 
 * Find the minimum distance between two numbers
