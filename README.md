@@ -209,8 +209,8 @@
 * Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted [**Explanation**](http://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
 * Equilibrium index of an array [**Explanation**](http://www.geeksforgeeks.org/equilibrium-index-of-an-array/)
 * Primality
-   * Primality Test
-   * Sieve of Eratosthenes
+   * Primality Test [**Explanation**](http://www.geeksforgeeks.org/primality-test-set-1-introduction-and-school-method/) [**Explanation2**](Primality.java)
+   * Sieve of Eratosthenes [**Explanation**](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
    * Find two prime numbers with given sum
    * Efficient program to print all prime factors of a given number
    * Least prime factor of numbers till n
@@ -373,6 +373,7 @@
 * conversion of Sorted DLL to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
 * Sorted Array to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
 * Binary Tree to Doubly linked list [**Explanation**](http://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/)
+* Convert a Binary Tree to a Circular Doubly Link List [**Explanation**](http://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/)
 * Remove nodes on root to leaf paths of length < K
 * Tournament Tree (Winner Tree) and Binary Heap
 * Reverse alternate levels of a perfect binary tree
