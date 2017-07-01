@@ -113,6 +113,13 @@
 * Write a function that parses a string into integer.[**Solution**](parseStrToInteger.java)
 * Rearrange characters in a string such that no two adjacent are same [**Solution**](More%20Codes/ResarrangeString.java) [**Explanation**](http://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/)
 * Smallest substring of str containing all the characters in arr  [**Solution**](More%20Codes/smallestSubStringOfAllChar.java) [**Explanation**](https://www.pramp.com/question/wqNo9joKG6IJm67B6z34)
+* Anagrams
+  * Check whether two strings are anagram of each other
+  * Given a sequence of words, print all anagrams together
+  * Print all pairs of anagrams in a given array of strings
+  * Anagram Substring Search (Or Search for all permutations)
+  * Remove minimum number of characters so that two strings become anagram
+  * Check if two strings are k-anagrams or not
 * Rearrange a string so that all same characters become d distance away
 * Find if an array of strings can be chained to form a circle
 * find second most frequent character
