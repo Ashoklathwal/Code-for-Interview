@@ -120,11 +120,30 @@
   * Anagram Substring Search (Or Search for all permutations)
   * Remove minimum number of characters so that two strings become anagram
   * Check if two strings are k-anagrams or not
+* Given a sorted dictionary of an alien language, find order of characters
+* Print all interleavings of given two strings
+* Check whether a given string is an interleaving of two other given strings
+* Lexicographic rank of a string
+* Print all possible words from phone digits
+* Check if two strings can become same after a swap in one string
+* An in-place algorithm for String Transformation
+* Given two strings, find if first string is a subsequence of second
+* Find Excel column name from a given column number
+* Check if a given string is a rotation of a palindrome
+* Remove a character from a string to make it a palindrome
+* Minimum insertions to form shortest palindrome
+* Recursively print all sentences that can be formed from list of word lists
+* Find the longest substring with k unique characters in a given string
+* Efficiently check if a string has duplicates without using any additional data structure
+* Hamming Distance between two strings
+* Sort a string according to the order defined by another string
+* 
 * Rearrange a string so that all same characters become d distance away
 * Find if an array of strings can be chained to form a circle
 * find second most frequent character
 * Count substrings with same first and last characters
 * Find the missing number in a string of numbers with no separator
+* Distinct strings with odd and even changes allowed
 * Find all substring of a given String.
 * Find all palindromic substring of a given string.
 
