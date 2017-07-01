@@ -211,10 +211,9 @@
 * Primality
    * Primality Test [**Explanation**](http://www.geeksforgeeks.org/primality-test-set-1-introduction-and-school-method/) [**Explanation2**](Primality.java)
    * Sieve of Eratosthenes [**Explanation**](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
-   * Find two prime numbers with given sum
-   * Efficient program to print all prime factors of a given number
-   * Least prime factor of numbers till n
-   * Prime Factorization using Sieve O(log n) for multiple queries
+   * Find two prime numbers with given sum [**Explanation**](http://www.geeksforgeeks.org/find-two-prime-numbers-with-given-sum/)
+   * Efficient program to print all prime factors of a given number [**Explanation**](http://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/)
+   * Least prime factor of numbers till n [**Explanation**](http://www.geeksforgeeks.org/least-prime-factor-of-numbers-till-n/)
 * Design an efficient data structure for given operations
 * Find whether an array is subset of another array 
 * Find the minimum distance between two numbers
@@ -228,7 +227,6 @@
 * Minimum number of swaps required for arranging pairs adjacent to each other
 * Trapping Rain Water
 * Convert array into Zig-Zag fashion
-* Count pairs with given sum
 * Minimize the maximum difference between the heights
 * Tic Tac Win: Design an algorithm to figure out if someone has won a game of tic-tac-toe
 
