@@ -119,9 +119,11 @@
   * Anagram Substring Search (Or Search for all permutations) [**Solution**](More%20Codes/AllAnagrams.java)
   * Remove minimum number of characters so that two strings become anagram [**Solution**](More%20Codes/RemAnagram.java) [**Explanation**](http://www.geeksforgeeks.org/remove-minimum-number-characters-two-strings-become-anagram/)
   * Check if two strings are k-anagrams or not [**Solution**](More%20Codes/K_Anagrams.java) [**Explanation**](http://www.geeksforgeeks.org/check-two-strings-k-anagrams-not/)
+* InterLeaving  
+    * Print all interleavings of given two strings [**Solution**](More%20Codes/AllStringInterleaving.java) [**Explanation**](http://javabypatel.blogspot.in/2016/03/print-all-interleaving-of-given-two-strings.html)
+    * Check whether a given string is an interleaving of two other given strings [**Solution**](More%20Codes/IsInterleaved.java) [**Explanation**](http://www.geeksforgeeks.org/check-whether-a-given-string-is-an-interleaving-of-two-other-given-strings/)
+* Sort a string according to the order defined by another string [**Explanation**](http://www.geeksforgeeks.org/sort-string-according-order-defined-another-string/)
 * Given a sorted dictionary of an alien language, find order of characters
-* Print all interleavings of given two strings
-* Check whether a given string is an interleaving of two other given strings
 * Lexicographic rank of a string
 * Print all possible words from phone digits
 * Check if two strings can become same after a swap in one string
@@ -134,9 +136,6 @@
 * Recursively print all sentences that can be formed from list of word lists
 * Find the longest substring with k unique characters in a given string
 * Efficiently check if a string has duplicates without using any additional data structure
-* Hamming Distance between two strings
-* Sort a string according to the order defined by another string
-* 
 * Rearrange a string so that all same characters become d distance away
 * Find if an array of strings can be chained to form a circle
 * find second most frequent character
