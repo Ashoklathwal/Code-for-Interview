@@ -114,12 +114,11 @@
 * Rearrange characters in a string such that no two adjacent are same [**Solution**](More%20Codes/ResarrangeString.java) [**Explanation**](http://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/)
 * Smallest substring of str containing all the characters in arr  [**Solution**](More%20Codes/smallestSubStringOfAllChar.java) [**Explanation**](https://www.pramp.com/question/wqNo9joKG6IJm67B6z34)
 * Anagrams
-  * Check whether two strings are anagram of each other
-  * Given a sequence of words, print all anagrams together
-  * Print all pairs of anagrams in a given array of strings
-  * Anagram Substring Search (Or Search for all permutations)
-  * Remove minimum number of characters so that two strings become anagram
-  * Check if two strings are k-anagrams or not
+  * Check whether two strings are anagram of each other [**Solution**](More%20Codes/Anagrams.java)
+  * Given a sequence of words, print all anagrams together [**Solution**](More%20Codes/PrintAnagramTogether.java)
+  * Anagram Substring Search (Or Search for all permutations) [**Solution**](More%20Codes/AllAnagrams.java)
+  * Remove minimum number of characters so that two strings become anagram [**Solution**](More%20Codes/RemAnagram.java) [**Explanation**](http://www.geeksforgeeks.org/remove-minimum-number-characters-two-strings-become-anagram/)
+  * Check if two strings are k-anagrams or not [**Solution**](More%20Codes/K_Anagrams.java) [**Explanation**](http://www.geeksforgeeks.org/check-two-strings-k-anagrams-not/)
 * Given a sorted dictionary of an alien language, find order of characters
 * Print all interleavings of given two strings
 * Check whether a given string is an interleaving of two other given strings
@@ -171,12 +170,11 @@
    drawLine(byte[] screen, int width, int xl, int x2, int y) 
 
 ### Advanced data Structure
-* Trie data structure 
+* Trie data structure [**Solution**](More%20Codes/Trie.java)
    * [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
    * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
    * Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
 * Find the k most frequent words from a file
-* Given a sequence of words, print all anagrams together
 * Print all valid words that are possible using Characters of Array
 
 ### Arrays
@@ -231,7 +229,7 @@
 * Find a peak element [**Explanation**](http://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
 * Search an element in an unsorted array using minimum number of comparisons [**Explanation**](http://www.geeksforgeeks.org/search-element-unsorted-array-using-minimum-number-comparisons/)
 * Merge k sorted arrays [**Solution**](More%20Codes/MergeKSortedArrays.java) [**Explanation**](http://www.geeksforgeeks.org/merge-k-sorted-arrays/)
-* Connect n ropes with minimum cost [**Explanation**](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
+* Connect n ropes with minimum cost [**Solution**](More%20Codes/ConnectNropes.java) [**Explanation**](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 * Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted [**Explanation**](http://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
 * Equilibrium index of an array [**Explanation**](http://www.geeksforgeeks.org/equilibrium-index-of-an-array/)
 * Primality
