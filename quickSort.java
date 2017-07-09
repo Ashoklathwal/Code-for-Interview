@@ -3,10 +3,10 @@ public class quickSort {
 	// partition method
 	static int partition(int[] arr,int p,int q)
 	{
-	int x=arr[q];
-	int i=p-1;
+	int x=arr[p];
+	int i=p;
 	int j;
-	for(j=p;j<=q-1;j++)
+	for(j=i+1;j<=q;j++)
 	{
 		if(arr[j]<=x)
 		{
@@ -18,10 +18,10 @@ public class quickSort {
 		}
 		
 	}
-	int temp=arr[i+1];
-	arr[i+1]=arr[q];
-	arr[q]=temp;
-		return i+1;
+	int temp=arr[i];
+	arr[i]=arr[p];
+	arr[p]=temp;
+		return i;
 	
 		
 	}
@@ -47,7 +47,8 @@ public class quickSort {
 	}
 public static void main(String args[])
 {
-	int[] arr={34,67,1,6,3,90,5};
+     int[] arr={34,67,1,6,3,90,5};
+	//int[] arr = {25, 70, 42, 91, 16, 45, 9, 21, 44};
 	System.out.println("The given array is:");
 	printArray(arr);
 	qSort(arr,0,arr.length-1);
