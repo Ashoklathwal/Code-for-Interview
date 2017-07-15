@@ -380,6 +380,10 @@ class binary_tree
     		// If val is smaller then root node, set the successor as root, search recursively into left subtree
     		else if(root.value > val)
     		{
+			// we make the root as successor because we might have a
+	        	// situation when value matches with the root, it wont have
+			// right subtree to find the successor, in that case we need
+			// parent to be the successor
     			successor = root.value;
     			getInorderSuccessorPredecessor(root.left, node);
 
@@ -387,6 +391,10 @@ class binary_tree
     		// If val is grater then root node, set the predecessor as root, search recursively into right subtree
     		else if (root.value < val)
     		{
+			// we make the root as predecessor because we might have a
+			// situation when value matches with the root, it wont have
+			// right subtree to find the predecessor, in that case we need				
+			// parent to be the predecessor.
     			predecessor = root.value;
     			getInorderSuccessorPredecessor(root.right, node);
     		}
