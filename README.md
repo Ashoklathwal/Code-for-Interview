@@ -173,7 +173,7 @@
    * [**Trie data structure**](Trie.pdf) [**More_Explanation**](http://www.geeksforgeeks.org/trie-insert-and-search/)
    * No Prefix-Set [**Question**](Trie-prefix-set.pdf) [**Solution**](NoPrefixSet.java)
    * Trie-Contacts [**Question**](Trie-contacts.pdf) [**Solution**](Trie-contacts.java)
-* Find the k most frequent words from a file
+* Find the k most frequent words from a file  [**Explanation**](http://www.zrzahid.com/top-k-or-k-most-frequent-words-in-a-document/)
 * Print all valid words that are possible using Characters of Array
 
 ### Arrays
@@ -390,6 +390,8 @@
   * all k-sum paths in a binary tree
 * Given a binary tree, print out all of its root-to-leaf paths one per line. [**with recursion**](http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/) [**Without recursion**](http://www.geeksforgeeks.org/print-root-leaf-path-without-using-recursion/) 
 * Merge two BSTs with limited extra space [**Solution**](More%20Codes/merge2BST.java) [**Exp1**](http://www.geeksforgeeks.org/?p=18611) [**Exp2**](http://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/)
+* Recover Binary Search Tree [**Explanation**](https://leetcode.com/problems/recover-binary-search-tree/#/discuss)
+* Flatten Binary Tree to Linked List [**Explanation1**](http://qa.geeksforgeeks.org/3976/flattening-a-binary-tree)  [**Explanation2**](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/discuss)
 * Sorted LinkedList to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/?p=17063)
 * conversion of Sorted DLL to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/)
 * Sorted Array to Balanced BST [**Explanation**](http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
