@@ -355,7 +355,7 @@
 ### Trees
 * [**Algorithms on binary trees**](More%20Codes/binary_tree.java). Comprises of the following algorithms:
    * Given a node value, finds the node in tree using dfs
-   * Pre-order traversal
+   * Pre-order traversal  [**Iterative Traversal**](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversals.java#L105)
    * In-order traversal
    * Post-order traversal
    * Checks if tree is a BST [**Explanation**](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
