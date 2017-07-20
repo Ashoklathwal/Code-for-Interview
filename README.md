@@ -388,7 +388,8 @@
   * from root, with a specified sum in Binary tree
   * from root to leaf node with a specified sum in Binary tree
   * all k-sum paths in a binary tree
-* Given a binary tree, print out all of its root-to-leaf paths one per line. [**with recursion**](http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/) [**Without recursion**](http://www.geeksforgeeks.org/print-root-leaf-path-without-using-recursion/) 
+* Given a binary tree, print out all of its root-to-leaf paths one per line. [**with recursion**](http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/) [**Without recursion**](http://www.geeksforgeeks.org/print-root-leaf-path-without-using-recursion/)
+* Serialize and Deserialize a Binary Tree [**Exp1**](http://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) [**Exp2**](https://github.com/skagrawal/Fun-with-Data-Structures/blob/master/DataStructurePrograms/src/ska/ds/tree/SerializeDeserializeBinaryTree.java)
 * Merge two BSTs with limited extra space [**Solution**](More%20Codes/merge2BST.java) [**Exp1**](http://www.geeksforgeeks.org/?p=18611) [**Exp2**](http://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/)
 * Recover Binary Search Tree [**Explanation**](https://leetcode.com/problems/recover-binary-search-tree/#/discuss)
 * Flatten Binary Tree to Linked List [**Explanation1**](http://qa.geeksforgeeks.org/3976/flattening-a-binary-tree)  [**Explanation2**](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/discuss)
