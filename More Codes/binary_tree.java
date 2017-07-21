@@ -207,42 +207,21 @@ class binary_tree
           else return root;
     }
     */	
-    public Node getLCA(Node node, int xValue, int yValue){
+    public Node getLCA(Node root, int A, int B)
+        {
+	    if(root == null)
+		    return null;
+	    if(root == A || root == B)
+		    return root;
+	    Node leftAns = getLCA(root.left, A, B);
+	    Node rightAns = getLCA(root.right, A, B);
+	    if(leftAns != null && rightAns != null)
+		    return root;
+	    if(leftAns == null)
+		    return rightAns;
+	    else
+		    return leftAns;
 		
-		Node leftAns = null;
-		if (node.left != null) {
-			leftAns = getLCA(node.left, xValue, yValue);
-		}
-		Node rightAns = null;
-		if (node.right != null) {
-			rightAns = getLCA(node.right, xValue, yValue);
-		}
-		
-		/* MUST BE CHECKED FIRST: else if both leftAns and rightAns are defined,
-		 * current node is LCA */
-		if (leftAns != null && rightAns != null)
-		 {
-			return node;
-		}
-		
-		/* if current node is either x or y*/
-		if (node.value == xValue || node.value == yValue) {
-			return node;
-		}
-		
-		/* else if left subtree contains only 1 (could be LCA or X or Y) */
-		if (leftAns != null && rightAns == null) {
-			return leftAns;
-		}
-		
-		/* else if right subtree contains only 1 (could be LCA or X or Y) */
-		if (rightAns != null && leftAns == null) {
-			return rightAns;
-		}
-		
-		/* if both returns null -> x and y are not found, hence LCA not found in
-		 * current subtree */
-		return null;
 	}
     public void getLCA(int xValue, int yValue)
     {
