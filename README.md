@@ -95,7 +95,7 @@
 
 ### String
 
-* Find The First Non Repeated Character In A String 
+* Count Possible Decodings of a given Digit Sequence [**Solution**](More%20Codes/Decode.java)  [**Explanation**](http://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/)
 * Given a string, print out all its permutations(without duplicate in input [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 * Print all permutations in sorted (lexicographic) order [**Solution**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/strPermute.java) [**Explanation**](https://github.com/Ashoklathwal/Code-for-Interview/blob/master/More%20Codes/String_permutation.pdf)
 * Reverse words in a given string [**Solution**](More%20Codes/reverseWordsInString.java)
@@ -178,6 +178,7 @@
 
 ### Arrays
 
+* Stock Buy Sell to Maximize Profit  [**Solution**](More%20Codes/stockbuyandsell.java)  [**Explanation**](http://www.geeksforgeeks.org/stock-buy-sell/)
 * Given an array A[] and a number x, check for pair in A[] with sum as x [**Explanation**](http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/)
 * Count pairs with given sum [**Explanation**](http://www.geeksforgeeks.org/count-pairs-with-given-sum/)
 * Count all distinct pairs with difference equal to k [**Explanation**](http://www.geeksforgeeks.org/count-pairs-difference-equal-k/)
@@ -361,6 +362,7 @@
    * Checks if tree is a BST [**Explanation**](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
    * Gets the height or depth of the BT [**Without recursion**](http://algorithms.tutorialhorizon.com/find-the-height-of-a-tree-without-recursion/)
    * Gets the Level of the BT
+   * Get Odd and even level sum difference [**Solution**](More%20Codes/Oddevenleveldiff.java)
    * Checks if the tree is height balanced
    * Determines the Lowest Common Ancestor (LCA) of two nodes [**BT Explanation**](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/) [**BST Explanation**](http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
    * Prints the tree level wise using BFS(level order traversal)
@@ -390,6 +392,7 @@
   * all k-sum paths in a binary tree
 * Given a binary tree, print out all of its root-to-leaf paths one per line. [**with recursion**](http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/) [**Without recursion**](http://www.geeksforgeeks.org/print-root-leaf-path-without-using-recursion/)
 * Serialize and Deserialize a Binary Tree [**Exp1**](http://www.geeksforgeeks.org/serialize-deserialize-binary-tree/) [**Exp2**](https://github.com/skagrawal/Fun-with-Data-Structures/blob/master/DataStructurePrograms/src/ska/ds/tree/SerializeDeserializeBinaryTree.java)
+* Remove BST keys outside the given range [**Solution**](More%20Codes/RemoveBSTOutofrange.java)  [**Explanation**](http://www.geeksforgeeks.org/remove-bst-keys-outside-the-given-range/)
 * Merge two BSTs with limited extra space [**Solution**](More%20Codes/merge2BST.java) [**Exp1**](http://www.geeksforgeeks.org/?p=18611) [**Exp2**](http://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/)
 * Recover Binary Search Tree [**Explanation**](https://leetcode.com/problems/recover-binary-search-tree/#/discuss)
 * Flatten Binary Tree to Linked List [**Explanation1**](http://qa.geeksforgeeks.org/3976/flattening-a-binary-tree)  [**Explanation2**](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/discuss)
