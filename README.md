@@ -263,6 +263,7 @@
 
 ### Dynamic Programming
 
+* * Minimum jump to reach end [**Solution**](More%20Codes/MinJumps.java) [**Explanation**](https://www.youtube.com/watch?v=cETfFsSTGJI)
 * Given an array of integers, find the Longest Increasing Subsequence of its items. 
   1) Time complexity : O(n^2) using DP [**Solution**](More%20Codes/longestIncreasingSubsequence1.java) [**Explanation**](https://www.youtube.com/watch?v=CE2b_-XfVDk&t=1s)
   2) Time complexity : O(n*log(n)) NOT DP [**Solution**](More%20Codes/longestIncreasingSubsequence_nlogn_method.java) [**Explanation**](http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/)
@@ -296,7 +297,6 @@
 * Text Justification Dynamic Programming
 * Word Break Problem Dynamic Programming
 * Box Stacking Dynamic Programming
-* Minimum jump to reach end
 * Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming
 * Palindrome Partition Dynamic Programming
 * Maximum Sum Increasing Subsequence Dynamic Programming
