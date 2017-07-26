@@ -33,7 +33,7 @@ public class Solution {
 			}
 		};
         */
-        PriorityQueue<Double> maxheap=new PriorityQueue<>(20,Collections.reverseOrder());
+        PriorityQueue<Double> maxheap=new PriorityQueue<>(Collections.reverseOrder());
         for(int i=0;i<n;i++)
         {
             double num=sc.nextDouble();
