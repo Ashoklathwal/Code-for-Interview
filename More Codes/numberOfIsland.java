@@ -3,6 +3,7 @@ import java.util.*;
 
 public class numberOfIsland {
      
+     // Here we are considering diagonally elements also If not kindly change code accordingly
     public static void cell(int i, int j, int[][] arr,int n,int m)
         {
         if((i<0 || j<0) || (i>=n || j>=m) || arr[i][j] == 0 || arr[i][j] == -1 )
