@@ -23,10 +23,10 @@
 * [**Common Questions Part 1**](More%20Codes/Hacking_a_Google_Interview_Practice_Questions_Person_A.pdf)
 * [**Common Questions Part 2**](More%20Codes/Hacking_a_Google_Interview_Practice_Questions_Person_B.pdf)
 
-### Some New Questions Added
+### Some New important Questions Added
 
 * Data structure: insert, remove, contains, get random element, all at O(1)
- [**Explanation**](https://stackoverflow.com/questions/5682218/data-structure-insert-remove-contains-get-random-element-all-at-o1)
+ [**Explanation**](https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/)
 
 ### Linked list :
 * How will you detect cycle and remove it from the linked list  [**Solution**](detectCycleLinkedList.java) [**Explanation**](http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/)
